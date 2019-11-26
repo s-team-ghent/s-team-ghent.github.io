@@ -1,0 +1,75 @@
+#-------------------------------
+# General Site Settings
+
+menu:
+- {name: 'Projects', url: ''}
+- {name: 'Blog', url: 'pages/blog.html'}
+- {name: 'About us', url: 'pages/about.html'}
+- {name: 'Contact', url: 'pages/contact.html'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Welcome to the webpage of our research group. We are a group of researchers led by professor Steven Verstockt at Ghent University (IDLab). We mainly focus on computer vision aided research. We are involved in projects which are themed around cultural heritage, data-driven sports science and geospatial analysis.'
+  rel-author: 'https://s-team-ghent.github.io'
+  rel-publisher: 'https://s-team-ghent.github.io'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065logo: 
+logo:
+  url: "./img/triangle.png"
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-analytics-ua: 'UA-112060364-3'
+
+#-------------------------------
+# Disqus Section
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'thathungrymind'
+
+#-------------------------------
+# About Section
+
+contact: >
+  # Contact
+
+  You may contact us through [our team mail address](mailto:steamghent@gmail.com) if you have any questions or would like to bring up any issues.
+  You can also find us on the following location
+
+  - UGent Campus Ardoyen
+
+  - Technologiepark-Zwijnaarde 122
+
+  - 9052 Ghent (Zwijnaarde)
+#-------------------------------
+# Work Section
+
+projects:
+- {name: 'DAIQUIRI', folder: 'DAIQUIRI', file: 'projects/DAIQUIRI.html', tags: ["computervision", "sports","machinelearning"]}
+- {name: 'SMARTGLAZ', folder: 'SMARTGLAZ', file: 'projects/SMARTGLAZ.html'}
+- {name: 'FLORE DE GAND', folder: 'FLORE-DE-GAND', file: 'projects/FLORE-DE-GAND.html'}
+- {name: 'CLUBS', folder: 'CLUBS', file: 'projects/CLUBS.html'}
+- {name: 'SPOTT', folder: 'SPOTT', file: 'projects/SPOTT.html'}
+- {name: 'KOERS', folder: 'KOERS', file: 'projects/KOERS.html'}
+- {name: 'BASE-X', folder: 'BASE-X', file: 'projects/BASE-X.html'}
+
+
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'github', link: 'https://github.com/s-team-ghent'}
+- {icon: 'envelope', link: 'mailto:steamghent@gmail.com'}
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

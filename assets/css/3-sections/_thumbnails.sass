@@ -1,0 +1,60 @@
+.thumb-container
+  max-width: 1040px
+  margin-left: auto
+  margin-right: auto
+  display: block
+  text-align: center
+  +clearfix
+  .thumb-footer p
+    width: 100%
+    background-color: $accent+CC
+    color: white
+    font-size: 24px
+  .project-tags a
+    display: inline
+    color: white
+    background-color: #ce6d8bCC
+    padding: 2px
+    border-radius: 2px
+
+  .thumb-unit
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
+    cursor: pointer
+    display: inline
+    float: left
+    width: 330px
+    height: 300px
+    margin-right: 10px
+    margin-bottom: 10px
+    overflow: hidden
+    float:left
+    background:
+      position: center center
+      repeat: no-repeat
+      size: cover
+    .thumb-overlay
+      +position(relative, 100% 0px null 0px)
+      height: 100%
+      background: fade-out(#333, 0.5)
+      text-align: center
+      //+transition
+      +display(flex)
+      +align-items(center)
+      +justify-content(space-around)
+      strong
+        display: block
+        padding: 20px
+        color: white
+        line-height: 1.2
+        font:
+          size: 24px
+          weight: 300
+    &:hover .thumb-overlay
+      +position(relative, 0px 0px null 0px)
+
+@media (max-width: 768px)
+  .thumb-container
+    max-width: 80vw
+    .thumb-unit
+      width: 80vw
+      height: 40vw
