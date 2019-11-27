@@ -96,9 +96,9 @@ projects:
     other_researchers: ["stevenvs"]
   }
 - {
-    name: 'BASE-X', 
-    folder: 'BASE-X', 
-    file: 'projects/BASE-X.html',
+    name: 'BAS-X', 
+    folder: 'BAS-X', 
+    file: 'projects/BAS-X.html',
     lead_researcher: "kenzomv",
     other_researchers: ["stevenvs","jelledb"]
   }

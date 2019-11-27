@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'BASE-X'
+title: 'BAS-X'
 ---
 
 ## About the project
