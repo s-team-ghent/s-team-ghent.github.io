@@ -102,6 +102,27 @@ projects:
     lead_researcher: "kenzomv",
     other_researchers: ["stevenvs","jelledb"]
   }
+- {
+    name: 'TOBIAS', 
+    folder: 'TOBIAS', 
+    file: 'projects/tobias.html',
+    lead_researcher: "jellevh",
+    other_researchers: ["stevenvs"]
+  }
+- {
+    name: 'SMART WATERWAYS', 
+    folder: 'SMART-WATERWAYS', 
+    file: 'projects/smart-waterways.html',
+    lead_researcher: "dilawaral",
+    other_researchers: ["stevenvs"]
+  }
+- {
+    name: 'BIORACER', 
+    folder: 'BIORACER', 
+    file: 'projects/bioracer.html',
+    lead_researcher: "jarichb",
+    other_researchers: ["stevenvs","jelledb"]
+  }
 
 
 

@@ -2,17 +2,21 @@
   <div class="thumb-container">
     <h2>IDLab Ugent Research Group of professor Steven Verstockt</h2>
     <p>Have a look at the projects we are currently working on!</p>
-    {% for project in site.data.settings.projects %}
-    <div class="thumb-unit" data-folder="{{ site.github.url }}/projects/{{ project.folder }}" style="background-image: url({{ site.github.url }}/assets/img/projects/{{ project.folder }}/thumb.jpg)">
-          <a href="{{ site.github.url }}/{{ project.file }}">
-            <div class="thumb-footer">
-                <p>{{ project.name }}</p>
-            </div>
-            <div class="thumb-overlay">
-                <strong>{{ project.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
-            </div>
-          </a>
+    {% assign projects_random = site.data.settings.projects | shuffle  %}
+    <div id='projects-container'>
+        {% for project in projects_random %}
+        <div class="thumb-unit" data-folder="{{ site.github.url }}/projects/{{ project.folder }}" style="background-image: url({{ site.github.url }}/assets/img/projects/{{ project.folder }}/thumb.jpg)">
+              <a href="{{ site.github.url }}/{{ project.file }}">
+                <div class="thumb-footer">
+                    <p>{{ project.name }}</p>
+                </div>
+                <div class="thumb-overlay">
+                    <strong>{{ project.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+                </div>
+              </a>
+        </div>
+        {% endfor %}
     </div>
-    {% endfor %}
   </div>
 </section>
+<script src="{{ site.github.url }}/assets/js/portfolio.js"></script>

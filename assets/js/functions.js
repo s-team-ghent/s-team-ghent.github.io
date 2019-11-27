@@ -3,7 +3,7 @@ $(function() {
 	previousPosition();
 	//workBelt();
 	//workLoad();
-	clientStuff();
+	//clientStuff();
 
 	$("header h1").fitText(1, { minFontSize: '20px', maxFontSize: '72px' });
 	$(".biglink").fitText(1.5);
@@ -94,7 +94,6 @@ function workLoad() {
   };
 
 })( jQuery );
-
 
 /*!
 	Autosize 1.18.12
@@ -369,3 +368,4 @@ function workLoad() {
 		});
 	};
 }(jQuery || $)); // jQuery or jQuery-like library, such as Zepto
+
