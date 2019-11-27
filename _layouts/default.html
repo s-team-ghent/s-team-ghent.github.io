@@ -38,16 +38,14 @@
 
 </head>
 <body>
+  <div class="site-container">
 
-<div class="site-container">
+    {% include header.html %}
 
-  {% include header.html %}
+    {{ content }}
 
-  {{ content }}
-
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script src="{{ site.github.url }}/assets/js/functions.js"></script>
+  </div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="{{ site.github.url }}/assets/js/functions.js"></script>
 </body>
 </html>
