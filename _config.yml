@@ -22,4 +22,4 @@ author: "S-TEAM IDLAB GHENT"
 paginate: 2
 paginate_path: '/pages/blog/page:num/'
 
-theme: portfolio-jekyll-theme
+#theme: portfolio-jekyll-theme

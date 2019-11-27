@@ -105,21 +105,21 @@ projects:
 - {
     name: 'TOBIAS', 
     folder: 'TOBIAS', 
-    file: 'projects/tobias.html',
+    file: 'projects/TOBIAS.html',
     lead_researcher: "jellevh",
     other_researchers: ["stevenvs"]
   }
 - {
     name: 'SMART WATERWAYS', 
     folder: 'SMART-WATERWAYS', 
-    file: 'projects/smart-waterways.html',
+    file: 'projects/SMART-WATERWAYS.html',
     lead_researcher: "dilawaral",
     other_researchers: ["stevenvs"]
   }
 - {
     name: 'BIORACER', 
     folder: 'BIORACER', 
-    file: 'projects/bioracer.html',
+    file: 'projects/BIORACER.html',
     lead_researcher: "jarichb",
     other_researchers: ["stevenvs","jelledb"]
   }
