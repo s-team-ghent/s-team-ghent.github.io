@@ -1,8 +1,15 @@
 ---
-layout: post
+layout: project
 title: 'CLUBS'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus porta tortor eros, et cursus diam feugiat eu. Mauris euismod volutpat leo porttitor congue. Curabitur quis purus dignissim, sagittis enim non, interdum enim. Sed vitae nibh sed ante luctus finibus. In fermentum arcu eget volutpat blandit. Nullam leo magna, luctus ac consequat ut, ultrices quis quam. Nullam orci magna, tincidunt consequat arcu vel, facilisis hendrerit lectus. Mauris dapibus, lorem et tincidunt bibendum, massa ipsum consectetur elit, at venenatis nulla nulla id ante.
+## About the project
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-5/gun-pants.jpg" %}
+Project in collaboration with [ReVaKi Ugent](https://www.ugent.be/ge/revaki/nl) and a number of Belgian Pro League football clubs. Within the project we look at the effects of load on injury risk and we try to model injury risk with the help of both in-season and pre-season testdata from the football clubs.
+
+## IDLab role
+
+IDLab has the following tasks within the CLUBS project
+
+- Data clean(s)ing of the datadumps from the football clubs
+- Injury risk production by machine learning techniques

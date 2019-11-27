@@ -2,7 +2,7 @@
 
 markdown: kramdown
 permalink: none
-plugins:             [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
+plugins:             [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag, jekyll-paginate]
 
 port: 4000
 
@@ -19,5 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: s-team-ghent
 author: "S-TEAM IDLAB GHENT"
+paginate: 2
+paginate_path: '/pages/blog/page:num/'
 
 theme: jekyll-theme-time-machine

@@ -1,9 +1,16 @@
 ---
-layout: post
+layout: project
 title: 'KOERS'
-author: 'kenzomv'
 ---
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
+## About the project
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
+The KOERS project is a cultural heritage project in collaboration with [Koers museum Roeselare](https://koersmuseum.be/nl). The project tries to improve traditional cycling broadcasting by implementation of a second-screen application which links with the displayed cycling race. The viewer is presented with interesting cycling heritage from the museum's collection whilst watching the race.
+
+## IDLab role
+
+IDLab has the following tasks within the software oriented packages of the KOERS project
+
+- Content processing and indexing: help the museum with digitalizing, annotating and indexing their cultural heritage
+- Content - broadcast linking: show relevant content at the right moment in time (e.g. jersey of rider which is currently being shown, monument nearby the peloton's location)
+

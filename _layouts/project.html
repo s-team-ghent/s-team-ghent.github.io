@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<section>
+  <div class="work-container">
+    <div id="article-header">
+        <h4 class="project-title">{{ page.title }}</h4>
+        {% include post_info.html author=page.author date=page.date %}
+    </div>
+    <div class="project-load">{{ content }}</div>
+    <div class="project-contacts">
+      <h4>Contact the involved IDLab Researchers</h4>
+      {% assign project = page.title %}
+      {% assign project_settings =site.data.settings.projects | where: "name", project | first %}
+      {% assign researcher = site.data.authors[project_settings.lead_researcher] %}
+      {% assign researcher_name = researcher.name %}
+      {% assign researcher_avatar = researcher.avatar %}
+      {% assign researcher_email = researcher.email %}
+      {% assign researcher_title = researcher.title %}
+      {% include show_researcher_contact.html researcher_avatar=avatar researcher_name=researcher_name
+        researcher_email=researcher_email
+        researcher_title=researcher_title
+         type="Research lead" %}
+      
+      {% assign project_settings =site.data.settings.projects | where: "name", project | first %}
+      {% assign researchers = project_settings.other_researchers %}
+      {% for researcher_name in researchers %}
+          {% assign researcher = site.data.authors[researcher_name] %}
+          {% assign researcher_name = researcher.name %}
+          {% assign researcher_avatar = researcher.avatar %}
+          {% assign researcher_email = researcher.email %}
+          {% assign researcher_title = researcher.title %}
+          {% include show_researcher_contact.html researcher_avatar=avatar researcher_name=researcher_name
+            researcher_email=researcher_email
+            researcher_title=researcher_title
+            type="Assistant researcher" %}
+      {% endfor %}
+    </div>
+  </div>
+  {% if site.data.settings.disqus.comments %}
+    {% include disqus.html %}
+  {% endif %}
+</section>
+{% include footer.html %}

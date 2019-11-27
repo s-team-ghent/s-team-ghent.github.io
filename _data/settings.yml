@@ -3,9 +3,7 @@
 
 menu:
 - {name: 'Projects', url: ''}
-- {name: 'Blog', url: 'pages/blog.html'}
-- {name: 'About us', url: 'pages/about.html'}
-- {name: 'Contact', url: 'pages/contact.html'}
+- {name: 'Blog', url: 'pages/blog'}
 
 #-------------------------------
 # SEO Section
@@ -55,13 +53,55 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'DAIQUIRI', folder: 'DAIQUIRI', file: 'projects/DAIQUIRI.html', tags: ["computervision", "sports","machinelearning"]}
-- {name: 'SMARTGLAZ', folder: 'SMARTGLAZ', file: 'projects/SMARTGLAZ.html'}
-- {name: 'FLORE DE GAND', folder: 'FLORE-DE-GAND', file: 'projects/FLORE-DE-GAND.html'}
-- {name: 'CLUBS', folder: 'CLUBS', file: 'projects/CLUBS.html'}
-- {name: 'SPOTT', folder: 'SPOTT', file: 'projects/SPOTT.html'}
-- {name: 'KOERS', folder: 'KOERS', file: 'projects/KOERS.html'}
-- {name: 'BASE-X', folder: 'BASE-X', file: 'projects/BASE-X.html'}
+- {
+    name: 'DAIQUIRI', 
+    folder: 'DAIQUIRI', 
+    file: "projects/DAIQUIRI.html", 
+    lead_researcher: "jelledb",
+    other_researchers: ["stevenvs"]
+  }
+- {
+    name: 'SMARTGLAZ', 
+    folder: 'SMARTGLAZ', 
+    file: 'projects/SMARTGLAZ.html',
+    lead_researcher: "jelledb",
+    other_researchers: ["stevenvs"]
+  }
+- {
+    name: 'FLORE DE GAND', 
+    folder: 'FLORE-DE-GAND', 
+    file: 'projects/FLORE-DE-GAND.html',
+    lead_researcher: "krishnaku",
+    other_researchers: ["stevenvs"]
+  }
+- {
+    name: 'CLUBS', 
+    folder: 'CLUBS', 
+    file: 'projects/CLUBS.html',
+    lead_researcher: "stevenvs",
+    other_researchers: ["jelledb"]
+  }
+- {
+    name: 'SPOTT', 
+    folder: 'SPOTT', 
+    file: 'projects/SPOTT.html',
+    lead_researcher: "krishnaku",
+    other_researchers: ["stevenvs"]
+  }
+- {
+    name: 'KOERS', 
+    folder: 'KOERS', 
+    file: 'projects/KOERS.html',
+    lead_researcher: "jelledb",
+    other_researchers: ["stevenvs"]
+  }
+- {
+    name: 'BASE-X', 
+    folder: 'BASE-X', 
+    file: 'projects/BASE-X.html',
+    lead_researcher: "kenzomv",
+    other_researchers: ["stevenvs","jelledb"]
+  }
 
 
 

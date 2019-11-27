@@ -1,0 +1,11 @@
+{% assign researcher_avatar = include.avatar %}
+{% assign researcher_name = include.researcher_name %}
+{% assign researcher_email = include.researcher_email %}
+{% assign researcher_title = include.researcher_title %}
+{% assign type = include.type %}
+<div class='researcher-contact'>
+    <div class='researcher-type'><h5>{{type}}</h5></div>
+    <div class='researcher-avatar'><img src="{{researcher.avatar}}"></div>
+    <div class='researcher-name'>{{researcher_title}} {{researcher.name}}</div>
+    <div class="researcher-email"><a href="mailto:{{researcher.email}}">{{researcher.email}}</a></div>
+</div>

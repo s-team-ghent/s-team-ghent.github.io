@@ -1,7 +1,9 @@
 .blog-container
-  padding-top: 10px
   margin: 30px
+  #blog-header
+    text-align: center
   .blog-unit
+    margin-bottom: 50px
     h1
       display: inline-block
       margin-bottom: 5px
@@ -12,9 +14,46 @@
       a
         color: black
       &:hover a
-        color: $accent-color
+        color: $accent
     .blog-date
       display: block
       font:
         size: 14px
         weight: 700
+  header
+    background-color: transparent
+    display: block
+    margin-bottom: 5px
+  .post-avatar
+    border-radius: 50px
+    float: right
+    margin-left: 1em
+    border: 0
+  .post-title
+    font-size: 30px
+    a
+      color: $accent-color !important
+      font-size: 30px
+    margin-bottom: 0.2em
+    line-height: 1
+  .post-meta
+    color: #999
+    font-size: 90%
+    margin: 0
+
+  .pagination a, .pagination span
+    padding: 7px 18px
+    border: 1px solid #eee
+    margin-left: -2px
+    margin-right: -2px
+    background-color: #ffffff
+    display: inline-block
+  
+  .pagination a
+    &:hover
+      background-color: #f1f1f1
+      color: #333
+  
+  .pagination
+    text-align: center
+  
