@@ -3,16 +3,22 @@ layout: default
 ---
 
 <section>
+  {% assign project = page.title %}
+  {% assign project_settings =site.data.settings.projects | where: "name", project | first %}
+  {% assign project_folder = project_settings.folder %}
   <div class="work-container">
     <div id="article-header">
-        <h4 class="project-title">{{ page.title }}</h4>
-        {% include post_info.html author=page.author date=page.date %}
+        <div class='background-img'>
+          <img class='project-header-img' src='/assets/img/projects/{{project_folder}}/thumb.jpg'>
+        </div>
+        <div class='header-info'>
+            <h4 class="project-title">{{ page.title }}</h4>
+            {% include post_info.html author=page.author date=page.date %}
+        </div>
     </div>
     <div class="project-load">{{ content }}</div>
     <div class="project-contacts">
       <h4>Contact the involved IDLab Researchers</h4>
-      {% assign project = page.title %}
-      {% assign project_settings =site.data.settings.projects | where: "name", project | first %}
       {% assign researcher = site.data.authors[project_settings.lead_researcher] %}
       {% assign researcher_name = researcher.name %}
       {% assign researcher_avatar = researcher.avatar %}

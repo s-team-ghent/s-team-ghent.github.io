@@ -1,136 +1,99 @@
-#-------------------------------
-# General Site Settings
+contact: '# Contact
 
-menu:
-- {name: 'Projects', url: ''}
-- {name: 'Blog', url: 'pages/blog'}
-
-#-------------------------------
-# SEO Section
-
-# NOTE: Providing SEO information will make this website more searchable on the internet.
-
-seo:
-  description: 'Welcome to the webpage of our research group. We are a group of researchers led by professor Steven Verstockt at Ghent University (IDLab). We mainly focus on computer vision aided research. We are involved in projects which are themed around cultural heritage, data-driven sports science and geospatial analysis.'
-  rel-author: 'https://s-team-ghent.github.io'
-  rel-publisher: 'https://s-team-ghent.github.io'
-
-#-------------------------------
-# Google Analytics Section
-
-# Analytics helps you understand who visits your website.
-# Learn more at: http://support.google.com/analytics/answer/1008065logo: 
-logo:
-  url: "./img/triangle.png"
-# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
-
-# If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-analytics-ua: 'UA-112060364-3'
-
-#-------------------------------
-# Disqus Section
-
-# Change to true for Disqus comments
-disqus:
-  comments: false
-  disqus_shortname: 'thathungrymind'
-
-#-------------------------------
-# About Section
-
-contact: >
-  # Contact
-
-  You may contact us through [our team mail address](mailto:steamghent@gmail.com) if you have any questions or would like to bring up any issues.
-  You can also find us on the following location
+  You may contact us through [our team mail address](mailto:steamghent@gmail.com)
+  if you have any questions or would like to bring up any issues. You can also find
+  us on the following location
 
   - UGent Campus Ardoyen
 
   - Technologiepark-Zwijnaarde 122
 
   - 9052 Ghent (Zwijnaarde)
-#-------------------------------
-# Work Section
 
+  '
+disqus:
+  comments: false
+  disqus_shortname: thathungrymind
+google-analytics-ua: UA-112060364-3
+logo:
+  url: ./img/triangle.png
+menu:
+- name: Projects
+  url: ''
+- name: Blog
+  url: pages/blog
 projects:
-- {
-    name: 'DAIQUIRI', 
-    folder: 'DAIQUIRI', 
-    file: "projects/DAIQUIRI.html", 
-    lead_researcher: "jelledb",
-    other_researchers: ["stevenvs"]
-  }
-- {
-    name: 'SMARTGLAZ', 
-    folder: 'SMARTGLAZ', 
-    file: 'projects/SMARTGLAZ.html',
-    lead_researcher: "jelledb",
-    other_researchers: ["stevenvs"]
-  }
-- {
-    name: 'FLORE DE GAND', 
-    folder: 'FLORE-DE-GAND', 
-    file: 'projects/FLORE-DE-GAND.html',
-    lead_researcher: "krishnaku",
-    other_researchers: ["stevenvs"]
-  }
-- {
-    name: 'CLUBS', 
-    folder: 'CLUBS', 
-    file: 'projects/CLUBS.html',
-    lead_researcher: "stevenvs",
-    other_researchers: ["jelledb"]
-  }
-- {
-    name: 'SPOTT', 
-    folder: 'SPOTT', 
-    file: 'projects/SPOTT.html',
-    lead_researcher: "krishnaku",
-    other_researchers: ["stevenvs"]
-  }
-- {
-    name: 'KOERS', 
-    folder: 'KOERS', 
-    file: 'projects/KOERS.html',
-    lead_researcher: "jelledb",
-    other_researchers: ["stevenvs"]
-  }
-- {
-    name: 'BAS-X', 
-    folder: 'BAS-X', 
-    file: 'projects/BAS-X.html',
-    lead_researcher: "kenzomv",
-    other_researchers: ["stevenvs","jelledb"]
-  }
-- {
-    name: 'TOBIAS', 
-    folder: 'TOBIAS', 
-    file: 'projects/TOBIAS.html',
-    lead_researcher: "jellevh",
-    other_researchers: ["stevenvs"]
-  }
-- {
-    name: 'SMART WATERWAYS', 
-    folder: 'SMART-WATERWAYS', 
-    file: 'projects/SMART-WATERWAYS.html',
-    lead_researcher: "dilawaral",
-    other_researchers: ["stevenvs"]
-  }
-- {
-    name: 'BIORACER', 
-    folder: 'BIORACER', 
-    file: 'projects/BIORACER.html',
-    lead_researcher: "jarichb",
-    other_researchers: ["stevenvs","jelledb"]
-  }
-
-
-
-#-------------------------------
-# Contact Section
-
+- file: projects/DAIQUIRI.html
+  folder: DAIQUIRI
+  lead_researcher: jelledb
+  name: DAIQUIRI
+  other_researchers:
+  - stevenvs
+- file: projects/SMARTGLAZ.html
+  folder: SMARTGLAZ
+  lead_researcher: jelledb
+  name: SMARTGLAZ
+  other_researchers:
+  - stevenvs
+- file: projects/FLORE-DE-GAND.html
+  folder: FLORE-DE-GAND
+  lead_researcher: krishnaku
+  name: FLORE DE GAND
+  other_researchers:
+  - stevenvs
+- file: projects/CLUBS.html
+  folder: CLUBS
+  lead_researcher: stevenvs
+  name: CLUBS
+  other_researchers:
+  - jelledb
+- file: projects/SPOTT.html
+  folder: SPOTT
+  lead_researcher: krishnaku
+  name: SPOTT
+  other_researchers:
+  - stevenvs
+- file: projects/KOERS.html
+  folder: KOERS
+  lead_researcher: jelledb
+  name: KOERS
+  other_researchers:
+  - stevenvs
+- file: projects/BAS-X.html
+  folder: BAS-X
+  lead_researcher: kenzomv
+  name: BAS-X
+  other_researchers:
+  - stevenvs
+  - jelledb
+- file: projects/TOBIAS.html
+  folder: TOBIAS
+  lead_researcher: jellevh
+  name: TOBIAS
+  other_researchers:
+  - stevenvs
+- file: projects/SMART-WATERWAYS.html
+  folder: SMART-WATERWAYS
+  lead_researcher: dilawaral
+  name: SMART WATERWAYS
+  other_researchers:
+  - stevenvs
+- file: projects/BIORACER.html
+  folder: BIORACER
+  lead_researcher: jarichb
+  name: BIORACER
+  other_researchers:
+  - stevenvs
+  - jelledb
+seo:
+  description: Welcome to the webpage of our research group. We are a group of researchers
+    led by professor Steven Verstockt at Ghent University (IDLab). We mainly focus
+    on computer vision aided research. We are involved in projects which are themed
+    around cultural heritage, data-driven sports science and geospatial analysis.
+  rel-author: https://s-team-ghent.github.io
+  rel-publisher: https://s-team-ghent.github.io
 social:
-- {icon: 'github', link: 'https://github.com/s-team-ghent'}
-- {icon: 'envelope', link: 'mailto:steamghent@gmail.com'}
-
-# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+- icon: github
+  link: https://github.com/s-team-ghent
+- icon: envelope
+  link: mailto:steamghent@gmail.com
