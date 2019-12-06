@@ -3,8 +3,8 @@
 markdown: kramdown
 permalink: none
 plugins:             [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag, jekyll-paginate]
-
 port: 4000
+highlighter: rouge 
 
 sass:
   sass_dir: assets/css

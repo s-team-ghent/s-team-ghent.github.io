@@ -62,6 +62,7 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   minima (~> 2.0)
+  rouge
   tzinfo-data
 
 BUNDLED WITH

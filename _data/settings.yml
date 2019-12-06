@@ -23,31 +23,31 @@ menu:
 - name: Blog
   url: pages/blog
 projects:
-- file: projects/DAIQUIRI.html
+- file: projects/daiquiri.html
   folder: DAIQUIRI
   lead_researcher: jelledb
   name: DAIQUIRI
   other_researchers:
   - stevenvs
-- file: projects/SMARTGLAZ.html
+- file: projects/smartglaz.html
   folder: SMARTGLAZ
   lead_researcher: jelledb
   name: SMARTGLAZ
   other_researchers:
   - stevenvs
-- file: projects/FLORE-DE-GAND.html
+- file: projects/flore-de-gand.html
   folder: FLORE-DE-GAND
   lead_researcher: krishnaku
   name: FLORE DE GAND
   other_researchers:
   - stevenvs
-- file: projects/CLUBS.html
+- file: projects/clubs.html
   folder: CLUBS
   lead_researcher: stevenvs
   name: CLUBS
   other_researchers:
   - jelledb
-- file: projects/SPOTT.html
+- file: projects/spott.html
   folder: SPOTT
   lead_researcher: krishnaku
   name: SPOTT
@@ -59,26 +59,26 @@ projects:
   name: KOERS
   other_researchers:
   - stevenvs
-- file: projects/BAS-X.html
+- file: projects/bas-x.html
   folder: BAS-X
   lead_researcher: kenzomv
   name: BAS-X
   other_researchers:
   - stevenvs
   - jelledb
-- file: projects/TOBIAS.html
+- file: projects/tobias.html
   folder: TOBIAS
   lead_researcher: jellevh
   name: TOBIAS
   other_researchers:
   - stevenvs
-- file: projects/SMART-WATERWAYS.html
+- file: projects/smart-waterways.html
   folder: SMART-WATERWAYS
   lead_researcher: dilawaral
   name: SMART WATERWAYS
   other_researchers:
   - stevenvs
-- file: projects/BIORACER.html
+- file: projects/bioracer.html
   folder: BIORACER
   lead_researcher: jarichb
   name: BIORACER
