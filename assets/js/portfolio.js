@@ -1,13 +1,21 @@
 function shuffleProjects() {
 	var container = document.getElementById("projects-container");
-	var elementsArray = Array.prototype.slice.call(container.getElementsByClassName('thumb-unit'));
-	  elementsArray.forEach(function(element){
+	var currElementsArray = Array.prototype.slice.call(container.getElementsByClassName('current-thumb-unit'));
+	currElementsArray.forEach(function(element){
 	  container.removeChild(element);
 	})
-	shuffleArray(elementsArray);
-	elementsArray.forEach(function(element){
-	container.appendChild(element);
-  })
+	var oldElementsArray = Array.prototype.slice.call(container.getElementsByClassName('old-thumb-unit'));
+	oldElementsArray.forEach(function(element){
+	container.removeChild(element);
+  	})
+	currElementsArray = shuffleArray(currElementsArray);
+	currElementsArray.forEach(function(element){
+		container.appendChild(element);
+	})
+	oldElementsArray = shuffleArray(oldElementsArray);
+	oldElementsArray.forEach(function(element){
+		container.appendChild(element);
+	})
   }
   
   function shuffleArray(array) {

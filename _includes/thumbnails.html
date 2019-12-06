@@ -2,10 +2,19 @@
   <div class="thumb-container">
     <h2>IDLab Ugent Research Group of professor Steven Verstockt</h2>
     <p>Have a look at the projects we are currently working on!</p>
-    {% assign projects_random = site.data.settings.projects | shuffle  %}
+    {% assign projects_random = site.data.settings.projects | where_exp: 'item' , "item.tags contains 'active'" %}
+    {% assign old_projects = site.data.settings.projects | where_exp: 'item' , "item.tags contains 'past'" %}
+
+    <ul class='project-tags'>
+        <li class='project-tag show-all-projects'>Show all</li>
+        {% for tag in site.data.settings.projects_tags %}
+        <li class='project-tag' data-showtag='{{tag}}'>{{ tag }}</li>
+        {% endfor %}
+    </ul>
     <div id='projects-container'>
-        {% for project in projects_random %}
-        <div class="thumb-unit" data-folder="{{ site.github.url }}/projects/{{ project.folder }}" style="background-image: url({{ site.github.url }}/assets/img/projects/{{ project.folder }}/thumb.jpg)">
+        {% for project in projects_random | shuffle %}
+        {% assign project_tags = project.tags %}
+        <div class="thumb-unit current-thumb-unit {{project_tags | join: " "}}" data-folder="{{ site.github.url }}/projects/{{ project.folder }}" style="background-image: url({{ site.github.url }}/assets/img/projects/{{ project.folder }}/thumb.jpg)">
               <a href="{{ site.github.url }}/{{ project.file }}">
                 <div class="thumb-footer">
                     <p>{{ project.name }}</p>
@@ -16,7 +25,21 @@
               </a>
         </div>
         {% endfor %}
+        {% for old_project in old_projects | shuffle %}
+        {% assign project_tags = old_project.tags %}
+        <div class="thumb-unit old-thumb-unit {{project_tags | join: " "}}" data-folder="{{ site.github.url }}/projects/{{ old_project.folder }}" style="background-image: url({{ site.github.url }}/assets/img/projects/{{ old_project.folder }}/thumb.jpg)">
+              <a href="{{ site.github.url }}/{{ old_project.file }}">
+                <div class="thumb-footer">
+                    <p>{{ old_project.name }}</p>
+                </div>
+                <div class="thumb-overlay">
+                    <strong>{{ old_project.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+                </div>
+              </a>
+        </div>
+        {% endfor %}
     </div>
   </div>
 </section>
 <script src="{{ site.github.url }}/assets/js/portfolio.js"></script>
+<script src="{{ site.github.url }}/assets/js/filter-projects.js"></script>

@@ -20,71 +20,108 @@ logo:
 menu:
 - name: Projects
   url: ''
-- name: Blog
-  url: pages/blog
+projects_tags:
+- active
+- past
+- culture
+- geospatial
+- sports
+- industry
 projects:
 - file: projects/daiquiri.html
   folder: DAIQUIRI
   lead_researcher: jelledb
   name: DAIQUIRI
-  other_researchers:
+  research_supervisor:
   - stevenvs
+  tags:
+  - active
+  - sports
 - file: projects/smartglaz.html
   folder: SMARTGLAZ
   lead_researcher: jelledb
   name: SMARTGLAZ
-  other_researchers:
+  research_supervisor:
   - stevenvs
+  tags:
+  - past
+  - geospatial
 - file: projects/flore-de-gand.html
   folder: FLORE-DE-GAND
   lead_researcher: krishnaku
   name: FLORE DE GAND
-  other_researchers:
+  research_supervisor:
   - stevenvs
+  tags:
+  - active
+  - culture
 - file: projects/clubs.html
   folder: CLUBS
   lead_researcher: stevenvs
   name: CLUBS
-  other_researchers:
+  research_supervisor:
   - jelledb
+  tags:
+  - active
+  - sports
 - file: projects/spott.html
   folder: SPOTT
   lead_researcher: krishnaku
   name: SPOTT
-  other_researchers:
+  research_supervisor:
   - stevenvs
+  tags:
+  - active
+  - culture
 - file: projects/KOERS.html
   folder: KOERS
   lead_researcher: jelledb
   name: KOERS
-  other_researchers:
+  research_supervisor:
   - stevenvs
+  tags:
+  - active
+  - sports
 - file: projects/bas-x.html
   folder: BAS-X
   lead_researcher: kenzomv
   name: BAS-X
-  other_researchers:
+  research_supervisor:
   - stevenvs
+  other_researchers:
   - jelledb
+  tags:
+  - active
+  - geospatial
 - file: projects/tobias.html
   folder: TOBIAS
   lead_researcher: jellevh
   name: TOBIAS
-  other_researchers:
+  research_supervisor:
   - stevenvs
+  tags:
+  - active
+  - industry
 - file: projects/smart-waterways.html
   folder: SMART-WATERWAYS
   lead_researcher: dilawaral
   name: SMART WATERWAYS
-  other_researchers:
+  research_supervisor:
   - stevenvs
+  tags:
+  - active
+  - industry
 - file: projects/bioracer.html
   folder: BIORACER
   lead_researcher: jarichb
   name: BIORACER
-  other_researchers:
+  research_supervisor:
   - stevenvs
+  other_researchers:
   - jelledb
+  tags:
+  - past
+  - sports
 seo:
   description: Welcome to the webpage of our research group. We are a group of researchers
     led by professor Steven Verstockt at Ghent University (IDLab). We mainly focus

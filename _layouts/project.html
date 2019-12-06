@@ -27,7 +27,7 @@ layout: default
       {% include show_researcher_contact.html researcher_avatar=avatar researcher_name=researcher_name
         researcher_email=researcher_email
         researcher_title=researcher_title
-         type="Research lead" %}
+         type="Main researcher" %}
       
       {% assign project_settings =site.data.settings.projects | where: "name", project | first %}
       {% assign researchers = project_settings.other_researchers %}
@@ -40,7 +40,19 @@ layout: default
           {% include show_researcher_contact.html researcher_avatar=avatar researcher_name=researcher_name
             researcher_email=researcher_email
             researcher_title=researcher_title
-            type="Assistant researcher" %}
+            type="Assisting researcher" %}
+      {% endfor %}
+      {% assign researchers = project_settings.research_supervisor %}
+      {% for researcher_name in researchers %}
+          {% assign researcher = site.data.authors[researcher_name] %}
+          {% assign researcher_name = researcher.name %}
+          {% assign researcher_avatar = researcher.avatar %}
+          {% assign researcher_email = researcher.email %}
+          {% assign researcher_title = researcher.title %}
+          {% include show_researcher_contact.html researcher_avatar=avatar researcher_name=researcher_name
+            researcher_email=researcher_email
+            researcher_title=researcher_title
+            type="Research supervisor" %}
       {% endfor %}
     </div>
   </div>
