@@ -7,6 +7,8 @@ title: 'BAS-X'
 
 Project in collaboration with [RouteYou](https://www.routeyou.com/) with the goal to motivate and start people to move in the nature.
 
+Test Kenzo
+
 ## IDLab role
 
 IDLab has the following tasks within BASE-X
