@@ -6,7 +6,7 @@
     {% assign old_projects = site.data.settings.projects | where_exp: 'item' , "item.tags contains 'past'" %}
 
     <ul class='project-tags'>
-        <li class='project-tag show-all-projects'>Show all</li>
+        <li class='show-all-projects'>Show all</li>
         {% for tag in site.data.settings.projects_tags %}
         <li class='project-tag' data-showtag='{{tag}}'>{{ tag }}</li>
         {% endfor %}
