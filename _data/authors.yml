@@ -2,13 +2,13 @@ jelledb: # author-id
   name: "Jelle De Bock"
   avatar: "https://www.ugent.be/ea/img/idlab/members/jelle_de_bock.jpg/@@images/e6362981-d03b-4966-94ed-4f64e55e13a3.jpeg"
   url: "https://github.com/jelledebock"
-  title: "ir."
+  title: "ing."
   email: "jelle.debock@ugent.be"
 kenzomv:
   name: "Kenzo Milleville"
   avatar: "https://www.ugent.be/ea/img/idlab/members/kenzo_milleville.jpg/@@images/6840492f-9ea4-43a6-9ac4-704ad996478b.jpeg"
   url: "https://github.com/"
-  title: "ir."
+  title: "ing."
   email: "kenzo.milleville@ugent.be"
 dilawaral:
   name: "Dilawar Ali"
@@ -32,7 +32,7 @@ jarichb:
   name: "Jarich Braeckevelt"
   avatar: "https://www.elis.ugent.be/pers/thumbnails/JB030.png"
   github: ""
-  title: "ir."
+  title: "ing."
   email: "Jarich.Braeckevelt@UGent.be"
 stevenvs:
   name: "Steven Verstockt"

@@ -20,13 +20,6 @@ logo:
 menu:
 - name: Projects
   url: ''
-projects_tags:
-- active
-- past
-- culture
-- geospatial
-- sports
-- industry
 projects:
 - file: projects/daiquiri.html
   folder: DAIQUIRI
@@ -86,10 +79,10 @@ projects:
   folder: BAS-X
   lead_researcher: kenzomv
   name: BAS-X
-  research_supervisor:
-  - stevenvs
   other_researchers:
   - jelledb
+  research_supervisor:
+  - stevenvs
   tags:
   - active
   - geospatial
@@ -115,13 +108,30 @@ projects:
   folder: BIORACER
   lead_researcher: jarichb
   name: BIORACER
-  research_supervisor:
-  - stevenvs
   other_researchers:
   - jelledb
+  research_supervisor:
+  - stevenvs
   tags:
   - past
   - sports
+- file: projects/ugesco.html
+  folder: UGESCO
+  lead_researcher: kenzomv
+  name: UGESCO
+  other_researchers:
+  - dilawaral
+  tags:
+  - heritage
+  - geospatial
+projects_tags:
+- active
+- past
+- culture
+- geospatial
+- sports
+- industry
+- heritage
 seo:
   description: Welcome to the webpage of our research group. We are a group of researchers
     led by professor Steven Verstockt at Ghent University (IDLab). We mainly focus
