@@ -125,6 +125,15 @@ projects:
   - past
   - heritage
   - geospatial
+- file: projects/eureca.html
+  folder: EURECA
+  lead_researcher: dilawaral
+  name: EURECA
+  other_researchers:
+  - kenzomv
+  tags:
+  - active
+  - heritage
 projects_tags:
 - active
 - past
