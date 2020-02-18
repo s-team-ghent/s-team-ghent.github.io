@@ -121,6 +121,8 @@ projects:
   name: UGESCO
   other_researchers:
   - dilawaral
+  research_supervisor:
+  - stevenvs
   tags:
   - past
   - heritage
@@ -131,6 +133,8 @@ projects:
   name: EURECA
   other_researchers:
   - kenzomv
+  research_supervisor:
+  - stevenvs
   tags:
   - active
   - heritage
