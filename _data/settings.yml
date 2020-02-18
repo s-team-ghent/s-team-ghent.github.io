@@ -73,7 +73,7 @@ projects:
   tags:
   - active
   - culture
-- file: projects/KOERS.html
+- file: projects/koers.html
   folder: KOERS
   lead_researcher: jelledb
   name: KOERS
