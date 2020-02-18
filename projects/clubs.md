@@ -12,4 +12,4 @@ Project in collaboration with [ReVaKi Ugent](https://www.ugent.be/ge/revaki/nl) 
 IDLab has the following tasks within the CLUBS project
 
 - Data clean(s)ing of the datadumps from the football clubs
-- Injury risk production by machine learning techniques
+- Injury risk prediction by machine learning techniques
