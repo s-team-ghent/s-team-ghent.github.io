@@ -52,7 +52,7 @@ projects:
   folder: CLUBS
   lead_researcher: stevenvs
   name: CLUBS
-  research_supervisor:
+  other_researchers:
   - jelledb
   tags:
   - active
