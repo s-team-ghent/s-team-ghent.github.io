@@ -5,6 +5,7 @@ animation: "bounceOut"
 # Colors
 
 accent: "#1E64C8"
+tagbar: "#e9f0fa"
 
 textColor: "#666"
 headlineColor: "#333"
