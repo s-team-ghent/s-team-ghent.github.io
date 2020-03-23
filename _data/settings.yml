@@ -47,7 +47,7 @@ projects:
   - stevenvs
   tags:
   - active
-  - culture
+  - cultural-heritage
 - file: projects/clubs.html
   folder: CLUBS
   lead_researcher: stevenvs
@@ -65,7 +65,7 @@ projects:
   - stevenvs
   tags:
   - active
-  - culture
+  - cultural-heritage
 - file: projects/koers.html
   folder: KOERS
   lead_researcher: jelledb
@@ -125,7 +125,7 @@ projects:
   - stevenvs
   tags:
   - past
-  - heritage
+  - cultural-heritage
   - geospatial
 - file: projects/eureca.html
   folder: EURECA
@@ -137,15 +137,14 @@ projects:
   - stevenvs
   tags:
   - past
-  - heritage
+  - cultural-heritage
 projects_tags:
 - active
 - past
-- culture
+- cultural-heritage
 - geospatial
 - sports
 - industry
-- heritage
 seo:
   description: Welcome to the webpage of our research group. We are a group of researchers
     led by professor Steven Verstockt at Ghent University (IDLab). We mainly focus
