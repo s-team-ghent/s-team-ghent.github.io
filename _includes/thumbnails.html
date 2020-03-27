@@ -8,7 +8,7 @@
     <ul class='project-tags'>
         <li class='show-all-projects'>Show all</li>
         {% for tag in site.data.settings.projects_tags %}
-        <li class='project-tag' data-showtag='{{tag}}'>{{ tag }}</li>
+        <li class='project-tag' data-showtag='{{tag}}'>{{ tag | replace: "-", "&nbsp;" }}</li>
         {% endfor %}
     </ul>
     <div id='projects-container'>
