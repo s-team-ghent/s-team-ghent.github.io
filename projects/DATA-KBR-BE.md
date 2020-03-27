@@ -9,4 +9,4 @@ DATA-KBR-BE will optimise KBR’s existing ICT infrastructure in order to facili
 
 ## IDLab role
 
-IDLab will mainly focus on document layout analysis and group text blocks/boxes into articles based on layout features, textual features, and semantic content similiarity. This annotation at a higher semantic level should improve the querying mechanisms of the KBR tools. The Newspaper Navigator of The Library of Congress [https://github.com/LibraryOfCongress/newspaper-navigator](https://github.com/LibraryOfCongress/newspaper-navigator) will be used as a starting point for this research. 
+IDLab will mainly focus on document layout analysis and group text blocks/boxes into articles based on layout features, textual features, and semantic content similiarity. This annotation at a higher semantic level should improve the querying mechanisms of the KBR tools. The Newspaper Navigator of The Library of Congress ([https://github.com/LibraryOfCongress/newspaper-navigator](https://github.com/LibraryOfCongress/newspaper-navigator)) will be used as a starting point for this research. 
