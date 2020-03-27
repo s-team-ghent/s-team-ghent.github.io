@@ -99,6 +99,8 @@ projects:
   folder: SMART-WATERWAYS
   lead_researcher: dilawaral
   name: SMART WATERWAYS
+  other_researchers:
+  - krishnaku
   research_supervisor:
   - stevenvs
   tags:
