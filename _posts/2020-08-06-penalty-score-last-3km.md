@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Automatic classification of the danger of the last 3km in road cycling races"
+title: "The danger score of the last 3km in road cycling races"
 tags: [data-science, gps]
 author: jelledb
 ---
 In this post we try to provide an automated penalty model to classify the last 3kms of cycling road races. (Text in Dutch)
 
-# Objectieve beoordeling van de &quot;ultimi chilometri&quot; in het wielrennen
+### Objectieve beoordeling van de &quot;ultimi chilometri&quot; in het wielrennen
 
 _Wordt het – na alweer enkele bedenkelijke sprints in de voorbije dagen - niet eens tijd voor een uniform scoring mechanisme om de veiligheid van de laatste kilometers van wielerwedstrijden te beoordelen?_
 
@@ -19,7 +19,7 @@ Een meer gedetailleerde studie, bijvoorbeeld op basis van videobeelden van de fi
 Voorlopige resultaten objectieve scoring:
 
 || Ronde Van Vlaanderen | Kuurne-Brussel-Kuurne | Ronde van Polen (etappe 1) | Milaan-Turijn |
-|---| --- | --- | --- | --- |
+|---| :---: |:---: | :---: | :---: |
 | Turns Penalty| 9.4 | 2.3 | 12.8  | 11.7 |
 | Roundabouts penaltly | 0| 0 | 21.5 | 21.4 |
 | Speed penaltly |0 | 0  | 10.3 | 21.9 |
@@ -27,6 +27,8 @@ Voorlopige resultaten objectieve scoring:
 | RoadType penaltly |0 | 0 | 6.5 | 21.6 |
 | **Total Score** | **13.4** | **6.4** | **58.9** | **79.6** |
 
+
 Dit onderzoek kadert in het ICON DAIQUIRI project (Data &amp; Artificial Intelligence for QUantifIed ReportIng In sport)
+
 
 **Contactpersoon:** prof. Steven Verstockt; [steven.verstockt@ugent.be](mailto:steven.verstockt@ugent.be); +32 474 65 52 41
