@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "The danger score of the last 3km in road cycling races"
+title: "The danger score of the last 3km in cycling"
 tags: [data-science, gps]
 author: jelledb
 ---
 In this post we try to provide an automated penalty model to classify the last 3kms of cycling road races. (Text in Dutch)
 
-### Objectieve beoordeling van de &quot;ultimi chilometri&quot; in het wielrennen
+#### Objectieve beoordeling van de &quot;ultimi chilometri&quot; in het wielrennen
 
 _Wordt het – na alweer enkele bedenkelijke sprints in de voorbije dagen - niet eens tijd voor een uniform scoring mechanisme om de veiligheid van de laatste kilometers van wielerwedstrijden te beoordelen?_
 
