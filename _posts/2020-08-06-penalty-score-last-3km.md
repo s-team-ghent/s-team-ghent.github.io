@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The danger score of the last 3km in cycling"
+title: "Course penalty score"
 tags: [data-science, gps]
 author: jelledb
 ---
@@ -26,7 +26,7 @@ Voorlopige resultaten objectieve scoring:
 | Height penaltly | 4.0| 4.1 | 7.8 | 3.1|
 | RoadType penaltly |0 | 0 | 6.5 | 21.6 |
 | **Total Score** | **13.4** | **6.4** | **58.9** | **79.6** |
-
+<br/>
 
 Dit onderzoek kadert in het ICON DAIQUIRI project (Data &amp; Artificial Intelligence for QUantifIed ReportIng In sport)
 
