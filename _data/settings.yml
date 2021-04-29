@@ -84,7 +84,7 @@ projects:
   research_supervisor:
   - stevenvs
   tags:
-  - active
+  - past
   - geospatial
 - file: projects/tobias.html
   folder: TOBIAS
