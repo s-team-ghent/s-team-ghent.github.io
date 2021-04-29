@@ -14,4 +14,4 @@ In January 2021, IDLab (Ghent University - imec) started its collaboration with 
 * [De Standaard (member article, *Dutch*)](https://www.standaard.be/cnt/dmf20210224_98014045)
 
 ## IDLab role
-Our research group will have an assisting role for the road safety manager, race organizers and race officials to help them understand which factors lead to safer races. We will mainly focus on building tools and algorithms to highlight, document and analyse safety related topics such as course analysis and automated Twitter incident scraping. 
+Within the COURSE (Creation Of Uci Race Safety Enrichments) project, our research group will have an assisting role for the road safety manager, race organizers and race officials to help them understand which factors lead to safer races. We will mainly focus on building tools and algorithms to highlight, document and analyse safety related topics such as course analysis and automated Twitter incident scraping. 
