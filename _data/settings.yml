@@ -169,7 +169,7 @@ projects:
   - healthcare
 - file: projects/FAME.html
   folder: FAME
-  lead_researcher: alecvdb
+  lead_researcher: kenzomv
   name: FAME
   research_supervisor:
   - stevenvs
@@ -177,11 +177,20 @@ projects:
   - active
   - cultural-heritage
 - file: projects/DISSCO.html
-  folder: 'DISSCO'
+  folder: DISSCO
   lead_researcher: krishnaku
-  name: 'DISSCO'
+  name: DISSCO
   other_researchers:
   - kenzomv
+  research_supervisor:
+  - stevenvs
+  tags:
+  - active
+  - cultural-heritage
+- file: projects/VKC.html
+  folder: VKC
+  lead_researcher: alecvdb
+  name: VKC
   research_supervisor:
   - stevenvs
   tags:
