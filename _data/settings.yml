@@ -48,10 +48,10 @@ projects:
   tags:
   - active
   - cultural-heritage
-- file: projects/clubs.html
-  folder: CLUBS
+- file: projects/hasard.html
+  folder: HASARD
   lead_researcher: stevenvs
-  name: CLUBS
+  name: HASARD
   other_researchers:
   - jelledb
   tags:
@@ -64,7 +64,7 @@ projects:
   research_supervisor:
   - stevenvs
   tags:
-  - active
+  - past
   - cultural-heritage
 - file: projects/koers.html
   folder: KOERS
@@ -152,9 +152,9 @@ projects:
 - file: projects/COURSE.html
   folder: COURSE
   lead_researcher: jelledb
+  name: COURSE
   research_supervisor:
   - stevenvs
-  name: COURSE
   tags:
   - active
   - sports
@@ -167,6 +167,26 @@ projects:
   tags:
   - active
   - healthcare
+- file: projects/FAME.html
+  folder: FAME
+  lead_researcher: alecvdb
+  name: FAME
+  research_supervisor:
+  - stevenvs
+  tags:
+  - active
+  - cultural-heritage
+- file: projects/DISSCO.html
+  folder: 'DISSCO'
+  lead_researcher: krishnaku
+  name: 'DISSCO'
+  other_researchers:
+  - kenzomv
+  research_supervisor:
+  - stevenvs
+  tags:
+  - active
+  - cultural-heritage
 projects_tags:
 - active
 - past

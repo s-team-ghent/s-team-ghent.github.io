@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'CLUBS'
+title: 'HASARD'
 ---
 
 ## About the project

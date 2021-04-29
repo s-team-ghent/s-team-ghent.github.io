@@ -45,3 +45,8 @@ stevenvs:
   github: ""
   title: "prof. dr."
   email: "steven.verstockt@ugent.be"
+alecvdb:
+  name: "Alec Van den Broeck"
+  avatar: "/assets/img/members/alec.jpg"
+  title: "ir."
+  email: "Alec.Vandenbroeck@ugent.be"
