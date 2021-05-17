@@ -161,7 +161,7 @@ projects:
 - file: projects/MOOIZO.html
   folder: MOOIZO
   lead_researcher: jellevh
-  name: MOOIZO
+  name: MOoiZO
   research_supervisor:
   - stevenvs
   tags:
