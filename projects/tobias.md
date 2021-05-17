@@ -5,7 +5,7 @@ title: 'TOBIAS'
 
 ## About the project
 
-The TOBIAS project, in collaboration with leading steel manufacturing companies, aims to help transition the steel industry towards Industry 4.0. A variety of data sources are analysed using data science and machine learning techniques to detect anomalies and predict failures in advance. This leads to an increased manufacturing efficiency by preventing downtime due to failure and by decreasing waste of resources and energy. This in turn leads to higher quality products that meet the rising demands of customers.
+The TOBIAS project, in collaboration with leading steel manufacturing companies, helps to transition the steel industry towards Industry 4.0. A variety of sensor data is captured at different points in the production line. This data is analyzed using data science and machine learning techniques to detect anomalies and predict failures in advance. This leads to an increased manufacturing efficiency by preventing downtime and decreases waste of resources and energy.
 
 ## IDLab role
 
