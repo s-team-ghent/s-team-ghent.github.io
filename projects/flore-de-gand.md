@@ -12,5 +12,5 @@ This heritage project focuses on digitization, enrichment and cross collection l
 IDLab has the following tasks within the Flore De Gand project
 
 1. Developed a novel page detection algorithm for preprocessing of the scanned pages.
-2. Currently building an interactive smart table for crowd sourced scanning and enrichment of historical images.
-
+2. Developed an interactive smart table to crowd source scanning, enrichment and [visualization](https://tw06v061.ugent.be/map) of historical images.
+3. Created a [Demonstrator](http://floredegand.be/lamgods/) on Van Hyck's The Ghent Alterpiece to demonstrate the power of cross collection linking.
