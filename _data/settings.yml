@@ -190,7 +190,7 @@ projects:
 - file: projects/VKC.html
   folder: VKC
   lead_researcher: alecvdb
-  name: VKC
+  name: VKC Enriched
   research_supervisor:
   - stevenvs
   tags:
