@@ -97,10 +97,10 @@ projects:
   - industry
 - file: projects/smart-waterways.html
   folder: SMART-WATERWAYS
-  lead_researcher: dilawaral
+  lead_researcher: krishnaku
   name: SMART WATERWAYS
   other_researchers:
-  - krishnaku
+  - dilawaral
   research_supervisor:
   - stevenvs
   tags:
