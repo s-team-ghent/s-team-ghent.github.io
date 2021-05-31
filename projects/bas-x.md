@@ -7,13 +7,15 @@ title: 'BAS-X'
 
 Project in collaboration with [RouteYou](https://www.routeyou.com/) with the goal to analyze and improve the quality of their walking & cycling routes, while also developing tools to automatically extract new routes from raster maps. Through statistical analysis of real user data and correlation with other datasets (e.g. weather, road type) the route information can be updated to more accurately reflect the real world conditions. For instance, the platform can suggest detours when it has been raining recently, to avoid more dangerous and uncomfortable sections in the route.
 
-By automatically generating an approximate route based on raster maps, walking and cycling routes from other agencies can more easily be integrated into the Routeyou platform. A real-world demonstrator could be made, where a user takes a picture of a map found on the roadside and it returns the approximate route. This enables gps navigation for that route and extends the Routeyou database. 
+We also developed tools to automatically geolocate raster maps and predict a gps track of the shown route. By recognizing the text on each map and using geocoders, an approximate geolocation for the map can be found. An image segmentation model was trained to automatically extract a mask of the route on the map. After postprocessing the extracted route, it can be georeferenced using the predicted location of the map, resulting in a gps track of the route. After matching the predicted route to the underlying road network, it can be automatically imported into Routeyou's database. Combined with a web scraper, this allows for automated discovery of new regions of interest and walking/cycling routes.  
 
 
 ## IDLab role
 
 IDLab has the following tasks within BAS-X
 
-- Digitization and extraction of walking and cycling routes through computer vision techniques
-- Correlation study between route popularity and the route characteristics
-- Improving route metadata based on user generated data
+1. Improving route metadata based on user generated data
+2. Correlation study between route popularity and the route characteristics
+3. Automated geolocation of walking and cycling maps
+4. Extraction and georeferencing of the depicted routes
+
