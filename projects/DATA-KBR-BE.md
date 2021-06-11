@@ -18,3 +18,4 @@ IDLab has the following tasks within the DATA-KBR-BE project:
 3. Image classification and clustering based on visual similarity
 4. Development of an interactive demonstrator
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OM-QrRgKPPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
