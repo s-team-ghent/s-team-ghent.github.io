@@ -50,3 +50,8 @@ alecvdb:
   avatar: "/assets/img/members/alec.jpg"
   title: "ir."
   email: "Alec.Vandenbroeck@ugent.be"
+losimons:
+  name: "Lore Simons"
+  avatar: "/assets/img/members/lore.jpg"
+  title: ""
+  email: "Lore.Simons@ugent.be"

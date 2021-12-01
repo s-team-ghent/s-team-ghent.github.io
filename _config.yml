@@ -15,8 +15,8 @@ sass:
 title: S-TEAM IDLAB GHENT
 email: steamghent@gmail.com
 description: Welcome to the webpage of our research group. We are a group of researchers led by professor Steven Verstockt at Ghent University (IDLab). We mainly focus on computer vision aided research. We are involved in projects which are themed around cultural heritage, data-driven sports science and geospatial analysis.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "sportsdatascience.be" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: s-team-ghent
 author: "S-TEAM IDLAB GHENT"
 paginate: 2

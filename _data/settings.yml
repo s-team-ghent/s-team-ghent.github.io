@@ -196,6 +196,30 @@ projects:
   tags:
   - active
   - cultural-heritage
+- file: projects/WCN.html
+  folder: WCN
+  lead_researcher: losimons
+  name: WCN
+  other_researchers:
+  - jelledb
+  research_supervisor:
+  - stevenvs
+  tags:
+  - active
+  - sports
+- file: projects/PACE.html
+  folder: PACE
+  lead_researcher: jelledb
+  name: PACE
+  research_supervisor:
+  - stevenvs
+  tags:
+  - active
+  - sports
+projects_tags:
+- active
+- past
+- sports
 projects_tags:
 - active
 - past
