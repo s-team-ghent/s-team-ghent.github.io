@@ -11,3 +11,4 @@ Today's modern buildings produce and provide a whole range of valuable data from
 IDLab has the following tasks within the Hybrid AI for buildings project:
 * Knowledge-based stream processing use cases combining all available building information.
 * Data-driven presence detection using environmental sensors.
+* 
