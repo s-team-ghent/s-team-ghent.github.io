@@ -10,7 +10,8 @@ Within the MOoiZO project, we aim to improve dental healthcare of orthodontic pa
 ## IDLab role
 
 Within MOoiZO, IDLab investigates all technical aspects related to the capturing and processing of dental images:
-* Performance of a feasibility study to check if the camera quality of smartphones is sufficient for dental healthcare.
-* Automatic color correction of the acquired smartphone images to improve color consistency.
-* Automatic analysis of the images using a combination of artificial intelligence and tradition computer vision techniques in order to assess dental health.
-* Development of a smartphone application combining and demonstrating all research results.
+* Feasibility study to check if the camera quality of smartphones is sufficient for dental healthcare.
+* AI assisted smartphone imaging procedure to capture optimal dental images.
+* Automatic color correction to improve color consistency.
+* Analysis of the images using a combination of artificial intelligence and tradition computer vision techniques in order to assess dental health.
+* Smartphone application prototype combining and demonstrating all research results.
