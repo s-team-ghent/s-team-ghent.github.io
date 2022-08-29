@@ -216,6 +216,15 @@ projects:
   tags:
   - active
   - sports
+- file: projects/hybrid-ai-for-buildings.html
+  folder: HYBRID-AI-FOR-BUILDINGS
+  lead_researcher: jellevh
+  name: Hybrid AI for buildings
+  research_supervisor:
+  - stevenvs
+  tags:
+  - active
+  - industry
 projects_tags:
 - active
 - past
