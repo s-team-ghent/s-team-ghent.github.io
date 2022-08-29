@@ -219,7 +219,7 @@ projects:
 - file: projects/hybrid-ai-for-buildings.html
   folder: HYBRID-AI-FOR-BUILDINGS
   lead_researcher: jellevh
-  name: Hybrid AI for buildings
+  name: HYBRID AI FOR BUILDINGS
   research_supervisor:
   - stevenvs
   tags:
