@@ -93,7 +93,7 @@ projects:
   research_supervisor:
   - stevenvs
   tags:
-  - active
+  - past
   - industry
 - file: projects/smart-waterways.html
   folder: SMART-WATERWAYS
@@ -165,7 +165,7 @@ projects:
   research_supervisor:
   - stevenvs
   tags:
-  - active
+  - past
   - healthcare
 - file: projects/FAME.html
   folder: FAME
