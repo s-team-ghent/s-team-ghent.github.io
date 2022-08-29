@@ -4,7 +4,7 @@ title: 'HYBRID AI FOR BUILDINGS'
 ---
 
 ## About the project
-Today's modern buildings produce and provide a whole range of valuable data from HVAC systems, environmental sensors, BIM models, etc. This project focusses on bringing all these data sources together to improve building management using knowledge-driven and data-driven techniques.
+Today's modern buildings produce and provide a whole range of valuable data from HVAC systems, environmental sensors, BIM models, etc. This project focusses on bringing all data sources together, leveraging them to improve building management using knowledge-driven and data-driven techniques.
 
 
 ## IDLab role
