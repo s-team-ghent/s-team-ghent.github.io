@@ -55,3 +55,13 @@ losimons:
   avatar: "/assets/img/members/lore.jpg"
   title: ""
   email: "Lore.Simons@ugent.be"
+mslembro:
+  name: "Maarten Slembrouck"
+  avatar: "/assets/img/members/maarten.jpg"
+  title: "dr. ir."
+  email: "Maarten.Slembrouck@ugent.be"
+rodcorte:
+  name: 'Robbe Decorte'
+  avatar: "/assets/img/members/robbe.jpg"
+  title: "ing."
+  email: "Robbe.Decorte@ugent.be"

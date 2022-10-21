@@ -198,7 +198,7 @@ projects:
   - cultural-heritage
 - file: projects/WCN.html
   folder: WCN
-  lead_researcher: losimons
+  lead_researcher: rodcorte
   name: WCN
   other_researchers:
   - jelledb
@@ -225,6 +225,18 @@ projects:
   tags:
   - active
   - industry
+- file: projects/STRADA.html
+  folder: STRADA
+  lead_researcher: rodcorte
+  research_supervisor: 
+  - stevenvs
+  - mslembro
+  name: STRADA
+  other_researchers:
+  - jelledb
+  tags:
+  - active
+  - sports
 projects_tags:
 - active
 - past
