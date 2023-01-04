@@ -237,6 +237,15 @@ projects:
   tags:
   - active
   - sports
+- file: projects/STATS.html
+  folder: STATS
+  lead_researcher: rodcorte
+  name: STATS
+  other_researchers:
+  - mslembro
+  tags:
+  - active
+  - sports
 projects_tags:
 - active
 - past
