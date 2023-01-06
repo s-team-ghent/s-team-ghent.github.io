@@ -10,6 +10,8 @@ The increasing accuracy and speed with which we can analyze images and detect, r
 
 Based on VENTOUX’s automatically generated metadata (such as events, riders, locations and POIs), the searchability of the video footage can also be optimized and the content can be exploited more widely via various channels/applications.
 
+![VENTOUX Schematic](/assets/img/projects/VENTOUX/ventouxInfo.png)
+
 ## IDLab role
 IDLab will coordinate the VENTOUX project and will mainly focus on the development of the necessary AI building blocks for metadata generation, the 3D mapping of video images and the enrichment of the images.
 
