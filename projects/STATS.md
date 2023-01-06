@@ -11,6 +11,8 @@ STATS will investigate how objectively measured sensor data and specific militar
 
 Overall, STATS is a real-time monitoring and management system to get Ready To Perform Soldiers. This compares to top sports where athletes must be ready to perform every day – a domain where several of the project partners are already active for years.
 
+![STATS Schematic](/assets/img/projects/STATS/stats.png)
+
 ## IDLab role
 
 An important aspect of STATS will be to make the sensors and [WCN](/projects/WCN.html) platform ready-to-implement in a military setting. This will be the main task/focus for IDLab. In the different project phases we will iteratively decrease the workload for staff/soldiers by:

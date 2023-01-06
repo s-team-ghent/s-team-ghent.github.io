@@ -228,12 +228,12 @@ projects:
 - file: projects/STRADA.html
   folder: STRADA
   lead_researcher: rodcorte
-  research_supervisor: 
-  - stevenvs
-  - mslembro
   name: STRADA
   other_researchers:
   - jelledb
+  research_supervisor:
+  - stevenvs
+  - mslembro
   tags:
   - active
   - sports
@@ -246,10 +246,12 @@ projects:
   tags:
   - active
   - sports
-projects_tags:
-- active
-- past
-- sports
+- file: projects/VENTOUX.html
+  folder: VENTOUX
+  lead_researcher: jelledb
+  name: VENTOUX
+  other_researchers:
+  - mslembro,rodcorte
 projects_tags:
 - active
 - past
