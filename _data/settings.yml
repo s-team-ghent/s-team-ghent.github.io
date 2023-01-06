@@ -251,7 +251,11 @@ projects:
   lead_researcher: jelledb
   name: VENTOUX
   other_researchers:
-  - mslembro,rodcorte
+  - mslembro
+  - rodcorte
+  tags:
+  - active
+  - sports
 projects_tags:
 - active
 - past
