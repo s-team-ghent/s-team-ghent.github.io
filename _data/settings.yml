@@ -264,15 +264,15 @@ projects:
   - tbd
   - tbd
   tags:
-  - pose estimation
-  - metadata enrichment
+  - active
+  - cultural-heritage
 - file: projects/METABELGICA.html
   folder: METABELGICA
   lead_researcher: raviks
   name: METABELGICA
   other_researchers:
-  - tbd
-  - tbd
+  - active
+  - cultural-heritage
   tags:
   - Linked Data
   - FAIR
@@ -284,8 +284,8 @@ projects:
   - tbd
   - tbd
   tags:
-  - tbd
-  - tbd
+  - active
+  - cultural-heritage
 projects_tags:
 - active
 - past
