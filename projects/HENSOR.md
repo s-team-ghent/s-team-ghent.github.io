@@ -1,3 +1,8 @@
+---
+layout: project
+title: 'HENSOR'
+---
+
 ## Heritage Enrichment using Spatial Object Relations
 
 The aim of this FED-tWIN project is to investigate whether automatic image recognition, with a focus on spatial relations between objects, can be used within the collection registration, in making collections searchable and in art history research.
