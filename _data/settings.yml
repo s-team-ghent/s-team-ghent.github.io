@@ -268,7 +268,7 @@ projects:
   - cultural-heritage
 - file: projects/METABELGICA.html
   folder: METABELGICA
-  lead_researcher: raviks
+  lead_researcher: ravikcs
   name: METABELGICA
   other_researchers:
   - tbd
