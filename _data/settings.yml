@@ -256,6 +256,36 @@ projects:
   tags:
   - active
   - sports
+- file: projects/HENSOR.html
+  folder: HENSOR
+  lead_researcher: ravikcs
+  name: HENSOR
+  other_researchers:
+  - tbd
+  - tbd
+  tags:
+  - pose estimation
+  - metadata enrichment
+- file: projects/METABELGICA.html
+  folder: METABELGICA
+  lead_researcher: raviks
+  name: METABELGICA
+  other_researchers:
+  - tbd
+  - tbd
+  tags:
+  - Linked Data
+  - FAIR
+- file: projects/AI WORKBENCH.html
+  folder: AI WORKBENCH
+  lead_researcher: ravikcs
+  name: AI WORKBENCH
+  other_researchers:
+  - tbd
+  - tbd
+  tags:
+  - tbd
+  - tbd
 projects_tags:
 - active
 - past
