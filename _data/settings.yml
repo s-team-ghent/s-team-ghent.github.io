@@ -271,11 +271,11 @@ projects:
   lead_researcher: raviks
   name: METABELGICA
   other_researchers:
+  - tbd
+  - tbd
+  tags:
   - active
   - cultural-heritage
-  tags:
-  - Linked Data
-  - FAIR
 - file: projects/AI WORKBENCH.html
   folder: AI WORKBENCH
   lead_researcher: ravikcs
