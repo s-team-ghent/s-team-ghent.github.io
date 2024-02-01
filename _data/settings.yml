@@ -266,6 +266,16 @@ projects:
   tags:
   - active
   - cultural-heritage
+- file: projects/BELGICAWEB.html
+  folder: BELGICAWEB
+  lead_researcher: ravikcs
+  name: BELGICAWEB
+  other_researchers:
+  - tbd
+  - tbd
+  tags:
+  - active
+  - cultural-heritage
 - file: projects/METABELGICA.html
   folder: METABELGICA
   lead_researcher: ravikcs
