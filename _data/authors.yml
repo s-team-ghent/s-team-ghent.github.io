@@ -45,6 +45,12 @@ stevenvs:
   github: ""
   title: "prof. dr."
   email: "steven.verstockt@ugent.be"
+dieterdw:
+  name: "Dieter De Witte"
+  avatar: "https://www.ugent.be/ea/idlab/img/members/dieterdewitte-jpg/@@images/f9efdb46-cbef-41d0-945c-c1fdb2d09a83.jpeg"
+  github: ""
+  title: "prof. dr."
+  email: "dieter.dewitte@ugent.be"
 alecvdb:
   name: "Alec Van den Broeck"
   avatar: "/assets/img/members/alec.jpg"
@@ -70,3 +76,8 @@ ravikcs:
   avatar: "/assets/img/members/ravik.jpg"
   title: "ing."
   email: "ravi.khatri@ugent.be"
+tristanv:
+  name: 'Tristan Verheecke'
+  avatar: "https://media.licdn.com/dms/image/C4E03AQGuM24L4CprYQ/profile-displayphoto-shrink_200_200/0/1517037374921?e=2147483647&v=beta&t=YlGuhQ-OkymoI0uwIvT90ZtHMRzM7OKZ3ykEGnUcxqg"
+  title: ""
+  email: "tristan.verheecke@ugent.be"
