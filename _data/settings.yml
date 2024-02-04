@@ -262,6 +262,9 @@ projects:
   name: HENSOR
   other_researchers:
   - kenzomv
+  - tristanv
+  research_supervisor:
+  - dieterdw
   tags:
   - active
   - cultural-heritage
@@ -269,8 +272,8 @@ projects:
   folder: BELGICAWEB
   lead_researcher: ravikcs
   name: BELGICAWEB
-  other_researchers:
-  - kenzomv
+  research_supervisor:
+  - dieterdw
   tags:
   - active
   - cultural-heritage
@@ -278,17 +281,26 @@ projects:
   folder: METABELGICA
   lead_researcher: ravikcs
   name: METABELGICA
-  other_researchers:
-  - kenzomv
+  research_supervisor:
+  - dieterdw
   tags:
   - active
   - cultural-heritage
-- file: projects/AI WORKBENCH.html
-  folder: AI WORKBENCH
+- file: projects/FRIABLE.html
+  folder: FRIABLE
   lead_researcher: ravikcs
-  name: AI WORKBENCH
-  other_researchers:
-  - kenzomv
+  name: FRIABLE
+  research_supervisor:
+  - dieterdw
+  tags:
+  - active
+  - cultural-heritage
+- file: projects/COGHENT.html
+  folder: COGHENT
+  lead_researcher: kenzomv
+  name: COGHENT
+  research_supervisor:
+  - dieterdw
   tags:
   - active
   - cultural-heritage
