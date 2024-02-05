@@ -12,7 +12,7 @@ To create this open knowledge, CoGhent establishes the necessary data architectu
 
 In sum, we make use of linked data to foster cultural diversity and raise its visibility. This way, we increase the dialogue between citizens of diverse backgrounds, enhancing social cohesion.
 
-![COGHENT Results](/assets/img/projects/COGHENT/coghentresults.PNG)
+<img src="/assets/img/projects/COGHENT/coghentresults.PNG" width="500" alt="COGHENT Results">
 
 ## IDLab role
 Research group UGent-IDLab is responsible for the identification and formulation of value network configurations and business models as well as the technical design of the data queries, the development of a blueprint integration layer, ETL processes and open web API’s.
