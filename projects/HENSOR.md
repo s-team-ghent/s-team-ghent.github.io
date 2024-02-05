@@ -13,7 +13,7 @@ A state-of-the-art research on the aforementioned themes, with practical applica
 
 HENSOR is a FED-tWIN project supported by BELSPO.
 
-# Heritage Enrichment Pose Search
+## Heritage Enrichment Pose Search
 
 This project work focuses on creating a visual search engine for the automatic enrichment of art collections, streamlining the retrieval process via pose based search.
 
@@ -22,16 +22,19 @@ This project work focuses on creating a visual search engine for the automatic e
 ## Results
 Some of the successful keypoints detection by MMPose are shown below:
 
-![1](https://github.com/ravikcs/HeritageEnrichmentPoseSearch/assets/147035848/335d11e7-9082-4860-bab6-adfc9b1c9838)
-![17](https://github.com/ravikcs/HeritageEnrichmentPoseSearch/assets/147035848/3d8738dc-3bb4-44bc-b5c0-c99efd3c1461)
-![22](https://github.com/ravikcs/HeritageEnrichmentPoseSearch/assets/147035848/3fcef5ea-b0d8-4bce-91ea-fdb384bf7862)
+<p float="left">
+  <img src="/assets/img/projects/HENSOR/1.jpg" width="250" alt="MMpose Results">
+  <img src="/assets/img/projects/HENSOR/17.jpg" width="250" alt="Second image Results">
+  <img src="/assets/img/projects/HENSOR/22.jpg" width="250" alt="third Results">
+</p>
 
 However, the model failed to detect keypoints accurately in case of drawings, battle scenes consisting of multiple people. Drawings, as hand-drawn sketches lack well-defined body structures, often disjoint body parts, displaying too much abstraction provided hurdles for the neural network, resulting in less detectable poses. However, we plan to construct a training pipeline using MMPose on such drawings providing ground truth pose keypoints to improve the results. Alternatively, using background removal techniques before pose estimation on such drawings might as well improve the results. 
 
-![21](https://github.com/ravikcs/HeritageEnrichmentPoseSearch/assets/147035848/527eb3cc-a2db-4e0f-ad7d-267ab86a57ae)
-![35](https://github.com/ravikcs/HeritageEnrichmentPoseSearch/assets/147035848/5c6fe3c3-4393-4c9e-9b33-e86d9af6d4cf)
-![38](https://github.com/ravikcs/HeritageEnrichmentPoseSearch/assets/147035848/c09e2ced-ea29-4bc3-b052-144cf0cf2571)
-![45](https://github.com/ravikcs/HeritageEnrichmentPoseSearch/assets/147035848/56cf3719-b7d0-45bd-8031-7fa74f300724)
+<p float="left">
+  <img src="/assets/img/projects/HENSOR/21.jpg" width="250" alt="MMpose Results">
+  <img src="/assets/img/projects/HENSOR/35.jpg" width="250" alt="Second image Results">
+  <img src="/assets/img/projects/HENSOR/38.jpg" width="400" alt="third Results">
+</p>
 
 ## Boeketje Kunst
 In this project, users can create their own unique bouquet with flowers from famous paintings from the Royal Museums of Fine Arts of Belgium. Select individual flowers using our advanced object detection and segmentation models and bundle them together into a personalized composition.
@@ -43,4 +46,5 @@ To achieve this end result we used advanced techniques such as object detection 
 The masks that the Segment Anything Model generates allowed us to accurately segment each flower so you can choose which ones to include in your bouquet. To put the flowers together in a beautiful bouquet, we used the popular openCV library with which we wrote scripts that put the segmented flowers in the right place. We also generated vases using text-to-image generative AI models and backgrounds using the same AI models, making the entire process automated and seamless.
 
 ## Results
-![Boeketje Kunst Results](/assets/img/projects/HENSOR/flower.jpg)
+<img src="/assets/img/projects/HENSOR/flower.jpg" width="350" alt="Boeketje Kunst Results">
+
