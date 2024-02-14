@@ -28,7 +28,7 @@ projects:
   research_supervisor:
   - stevenvs
   tags:
-  - active
+  - past
   - sports
 - file: projects/smartglaz.html
   folder: SMARTGLAZ
@@ -46,7 +46,7 @@ projects:
   research_supervisor:
   - stevenvs
   tags:
-  - active
+  - past
   - cultural-heritage
 - file: projects/hasard.html
   folder: HASARD
@@ -55,7 +55,7 @@ projects:
   other_researchers:
   - jelledb
   tags:
-  - active
+  - past
   - sports
 - file: projects/spott.html
   folder: SPOTT
@@ -104,7 +104,7 @@ projects:
   research_supervisor:
   - stevenvs
   tags:
-  - active
+  - past
   - industry
 - file: projects/bioracer.html
   folder: BIORACER
@@ -174,7 +174,7 @@ projects:
   research_supervisor:
   - stevenvs
   tags:
-  - active
+  - past
   - cultural-heritage
 - file: projects/DISSCO.html
   folder: DISSCO
@@ -194,7 +194,7 @@ projects:
   research_supervisor:
   - stevenvs
   tags:
-  - active
+  - past
   - cultural-heritage
 - file: projects/WCN.html
   folder: WCN
@@ -223,7 +223,7 @@ projects:
   research_supervisor:
   - stevenvs
   tags:
-  - active
+  - past
   - industry
 - file: projects/STRADA.html
   folder: STRADA
@@ -248,7 +248,7 @@ projects:
   - sports
 - file: projects/VENTOUX.html
   folder: VENTOUX
-  lead_researcher: jelledb
+  lead_researcher: jellevh
   name: VENTOUX
   other_researchers:
   - mslembro
