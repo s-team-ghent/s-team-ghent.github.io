@@ -147,7 +147,7 @@ projects:
   research_supervisor:
   - stevenvs
   tags:
-  - active
+  - past
   - cultural-heritage
 - file: projects/COURSE.html
   folder: COURSE
@@ -214,7 +214,7 @@ projects:
   research_supervisor:
   - stevenvs
   tags:
-  - active
+  - past
   - sports
 - file: projects/hybrid-ai-for-buildings.html
   folder: HYBRID-AI-FOR-BUILDINGS
@@ -235,7 +235,7 @@ projects:
   - stevenvs
   - mslembro
   tags:
-  - active
+  - past
   - sports
 - file: projects/STATS.html
   folder: STATS
@@ -244,7 +244,7 @@ projects:
   other_researchers:
   - mslembro
   tags:
-  - active
+  - past
   - sports
 - file: projects/VENTOUX.html
   folder: VENTOUX
