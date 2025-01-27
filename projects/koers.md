@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'KOERS'
+title: 'KOERS - Museum in de Living'
 ---
 
 ## About the project
