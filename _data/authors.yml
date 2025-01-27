@@ -2,25 +2,25 @@ jelledb: # author-id
   name: "Jelle De Bock"
   avatar: "https://www.ugent.be/ea/idlab/img/members/jelle_de_bock.jpg"
   url: "https://github.com/jelledebock"
-  title: "ing."
-  email: "jelle.debock@ugent.be"
+  title: "(former member) dr. ing."
+  email: ""
 kenzomv:
   name: "Kenzo Milleville"
   avatar: "https://www.ugent.be/ea/idlab/img/members/kenzo_milleville.jpg"
-  url: "https://github.com/"
-  title: "ing."
+  url: "https://github.com/kymillev"
+  title: "dr. ir."
   email: "kenzo.milleville@ugent.be"
 dilawaral:
   name: "Dilawar Ali"
   avatar: "https://www.ugent.be/ea/idlab/img/members/dilawar-ali.jpg"
   url: "https://github.com/"
-  title: "ing."
-  email: "Dilawar.Ali@UGent.be"
+  title: "(former member) dr. ing."
+  email: ""
 krishnaku:
   name: "Krishna Kumar"
   avatar: "https://www.ugent.be/ea/idlab/img/members/krishna_kumar.jpg"
   url:
-  title: "ing."
+  title: "(former member) dr. ing."
   email: ""
 jellevh:
   name: "Jelle Vanhaeverbeke"
@@ -32,13 +32,13 @@ jarichb:
   name: "Jarich Braeckevelt"
   avatar: "https://www.elis.ugent.be/pers/thumbnails/JB030.png"
   github: ""
-  title: "ing."
-  email: "Jarich.Braeckevelt@UGent.be"
+  title: "(former member) ing."
+  email: ""
 pietervs:
   name: "Pieter Verstraete"
   avatar: "https://www.ugent.be/ea/idlab/img/members/placeholder.jpg"
-  title: "ing."
-  email: "Pieter.Verstraete@ugent.be"
+  title: "(former member) ing."
+  email: ""
 stevenvs:
   name: "Steven Verstockt"
   avatar: "https://www.ugent.be/ea/idlab/img/members/stevenverstockt-jpg/"
@@ -54,16 +54,16 @@ dieterdw:
 alecvdb:
   name: "Alec Van den Broeck"
   avatar: "/assets/img/members/alec.jpg"
-  title: "ir."
-  email: "Alec.Vandenbroeck@ugent.be"
+  title: "(former member) ir."
+  email: ""
 losimons:
   name: "Lore Simons"
   avatar: "/assets/img/members/lore.jpg"
-  title: ""
-  email: "Lore.Simons@ugent.be"
+  title: "(former member)"
+  email: ""
 mslembro:
   name: "Maarten Slembrouck"
-  avatar: "/assets/img/members/maarten.jpg"
+  avatar: "https://people.idlab.ugent.be/802001462716.jpg"
   title: "dr. ir."
   email: "Maarten.Slembrouck@ugent.be"
 rodcorte:
@@ -74,5 +74,25 @@ rodcorte:
 ravikcs:
   name: 'Ravi Khatri'
   avatar: "/assets/img/members/ravik.jpg"
-  title: "ing."
+  title: "(former member) ing."
   email: "ravi.khatri@ugent.be"
+joachimtae:
+  name: "Joachim Taelman"
+  avatar: "https://people.idlab.ugent.be/802004373928.jpg"
+  title: "dr. ir."
+  email: "Joachim.Taelman@ugent.be"
+winter:
+  name: "Winter Clinckemaillie"
+  avatar: "https://www.ugent.be/ea/idlab/img/members/placeholder.jpg"
+  title: "ing."
+  email: "Winter.Clinckemaillie@ugent.be"
+thomasvle:
+  name: "Thomas Vleeschouwers"
+  avatar: "https://people.idlab.ugent.be/802004617539.jpg"
+  title: "ir."
+  email: "Thomas.Vleeschouwers@ugent.be"
+soheila:
+  name: "Soheila Bigdeli"
+  avatar: "https://www.ugent.be/ea/idlab/img/members/placeholder.jpg"
+  title: ""
+  email: "soheila.bigdeli@ugent.be"
