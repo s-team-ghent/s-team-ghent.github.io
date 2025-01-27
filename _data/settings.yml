@@ -292,7 +292,7 @@ projects:
   research_supervisor:
   - dieterdw
   tags:
-  - active
+  - past
   - cultural-heritage
 - file: projects/COGHENT.html
   folder: COGHENT
@@ -301,7 +301,7 @@ projects:
   research_supervisor:
   - dieterdw
   tags:
-  - active
+  - past
   - cultural-heritage
 - file: projects/artemis.html
   folder: ARTEMIS
