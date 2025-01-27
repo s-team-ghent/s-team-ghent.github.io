@@ -4,7 +4,7 @@ title: 'BRIEK'
 ---
 
 ## About the project
-The BRIEK project, short for "Better Routing with Interactive Elements in KOERS," focuses on improving visitor navigation and experience at [KOERS, the Museum of Cycling](https://koersmuseum.be/nl). The project addresses current challenges in wayfinding within the museum, which are partly due to the protected status and complex layout of the building. By leveraging advanced technology, BRIEK aims to create a more accessible and engaging experience for visitors.
+The BRIEK project, short for "Better Routing with Interactive Elements in KOERS", focuses on improving visitor navigation and experience at [KOERS museum Roeselare](https://koersmuseum.be/nl). The project addresses current challenges in wayfinding within the museum, which are partly due to the protected status and complex layout of the building. By leveraging advanced technology, BRIEK aims to create a more accessible and engaging experience for visitors.
 
 ## IDLab role
 IDLab has the following tasks during the BRIEK project:
