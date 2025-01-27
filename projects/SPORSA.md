@@ -11,3 +11,7 @@ Recognizing the need for a transformative approach, the SPORSA project (SPORts S
 The core objective of SPORSA is to leverage technology to mitigate risks, improve race dynamics monitoring, and facilitate timely communication during cycling events. By addressing specific safety-related needs, identified through extensive stakeholder engagement, SPORSA is poised to redefine how safety is managed in the cycling domain. Key priorities identified for the project include continuous safety insights, accurate live data dissemination, objective decision-making and detailed race analytics (in order of priority). 
 
 ## IDLab role
+
+IDLAb is the coordinator and the principal investigator in the project.
+
+The project is funded by IOF.
