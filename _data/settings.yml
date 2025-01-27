@@ -303,6 +303,53 @@ projects:
   tags:
   - active
   - cultural-heritage
+- file: projects/artemis.html
+  folder: ARTEMIS
+  lead_researcher: kenzomv
+  name: Artemis
+  research_supervisor:
+  - stevenvs
+  tags:
+  - active
+  - cultural-heritage
+- file: projects/SPORSA.html
+  folder: SPORSA
+  lead_researcher: rodcorte
+  name: SPORSA
+  research_supervisor:
+  - joachimtae
+  - stevenvs
+  tags:
+  - active
+  - sports
+- file: projects/REPLAY.html
+  folder: REPLAY
+  lead_researcher: mslembro
+  name: REPLAY
+  research_supervisor:
+  - stevenvs
+  tags:
+  - active
+  - sports
+- file: projects/GOTCHA.html
+  folder: GOTCHA
+  lead_researcher: winter
+  name: GOTCHA
+  research_supervisor:
+  - stevenvs
+  tags:
+  - active
+  - sports
+- file: projects/BRIEK.html
+  folder: BRIEK
+  lead_researcher: winter
+  name: BRIEK
+  research_supervisor:
+  - joachimtae
+  - stevenvs
+  tags:
+  - active
+  - sports
 projects_tags:
 - active
 - past
