@@ -325,7 +325,7 @@ projects:
 - file: projects/REPLAY.html
   folder: REPLAY
   lead_researcher: mslembro
-  name: REPLAY
+  name: RE(P)LAY
   research_supervisor:
   - stevenvs
   tags:
