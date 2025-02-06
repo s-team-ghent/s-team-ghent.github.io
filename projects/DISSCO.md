@@ -25,13 +25,13 @@ project aims to enhance the visibility and use of collections housed in Flemish 
 
 ## IDLab role
 
-### Automated Preprocessing 
+#### Automated Preprocessing 
 Automated preprocessing methods based on computer vision have been developed to streamline the digitization of herbarium specimens. These methods begin by extracting the page boundary and color card from photographed specimens, which are then morphologically corrected and merged into a
 single normalised image. This approach significantly improved the digitization efficiency. We applied this method to historical herbarium collections from the late 18th and early 19th centuries (Charles Van Hoorebeke, Aimé Mac Leod, and Julius Mac Leod) as well as the collection of the Ghent University Museum (GUM).
 
 ![Preprocessing](/assets/img/projects/DISSCO/preprocessing.png "Automated preprocessing methods")
 
-### Metadata Extraction and linking
+#### Metadata Extraction and linking
 
 In the initial stage of DiSSCo, the primary focus was on extracting and identifying individual
 specimens from multi-specimen herbarium sheets (Thirukokaranam Chandrasekar 2021,
@@ -49,7 +49,7 @@ found that Mask2Former, the most recent model we tested, performed best overall.
 
 ![Herbarium sheet segmentation](/assets/img/projects/DISSCO/segmentation.png "Herbarium sheet segmentation")
 
-### Publications
+#### Publications
 
 - Milleville, K. (2023). Unlocking the potential of digital archives via artificial intelligence. Ghent University. Faculty of Engineering and Architecture, Ghent, Belgium. http://hdl.handle.net/1854/LU-01HA1VDK26RX4CWJF6XBXA3B5F
 

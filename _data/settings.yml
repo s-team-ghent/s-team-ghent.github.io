@@ -131,10 +131,10 @@ projects:
   - geospatial
 - file: projects/eureca.html
   folder: EURECA
-  lead_researcher: dilawaral
+  lead_researcher: 
+    - dilawaral
+    - kenzomv
   name: EURECA
-  other_researchers:
-  - kenzomv
   research_supervisor:
   - stevenvs
   tags:
@@ -178,10 +178,10 @@ projects:
   - cultural-heritage
 - file: projects/DISSCO.html
   folder: DISSCO
-  lead_researcher: krishnaku
-  name: DISSCO
-  other_researchers:
+  lead_researcher: 
+  - krishnaku
   - kenzomv
+  name: DISSCO
   research_supervisor:
   - stevenvs
   tags:
