@@ -132,8 +132,9 @@ projects:
 - file: projects/eureca.html
   folder: EURECA
   lead_researcher: 
-    - dilawaral
     - kenzomv
+  other_researchers:
+  - dilawaral
   name: EURECA
   research_supervisor:
   - stevenvs
@@ -179,8 +180,9 @@ projects:
 - file: projects/DISSCO.html
   folder: DISSCO
   lead_researcher: 
-  - krishnaku
   - kenzomv
+  other_researchers:
+  - krishnaku
   name: DISSCO
   research_supervisor:
   - stevenvs
