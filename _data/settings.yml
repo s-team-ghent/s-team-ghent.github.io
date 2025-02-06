@@ -179,8 +179,7 @@ projects:
   - cultural-heritage
 - file: projects/DISSCO.html
   folder: DISSCO
-  lead_researcher: 
-  - kenzomv
+  lead_researcher: kenzomv
   other_researchers:
   - krishnaku
   name: DISSCO
