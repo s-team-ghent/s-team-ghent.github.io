@@ -351,6 +351,17 @@ projects:
   tags:
   - active
   - sports
+- file: projects/endoscopy.html
+  folder: ENDOSCOPY
+  lead_researcher: jellevh
+  name: Endoscopy
+  other_researchers:
+  - kenzomv
+  research_supervisor:
+  - stevenvs
+  tags:
+  - active
+  - healthcare
 projects_tags:
 - active
 - past
