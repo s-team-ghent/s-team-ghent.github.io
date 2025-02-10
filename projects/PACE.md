@@ -27,8 +27,8 @@ IDLab's tasks within the PACE project include:
 * Implementing and presenting the real-time W' estimation using power data (ANT+ or Bluetooth) and athlete profiles. Initially, a web-app was created to communicate with the power sensor via Bluetooth using Google's Web Bluetooth API. Further steps include the development of a dedicated mobile application.
 
 Integration with cycling computers and sports watches is not currently pursued due to following limitations:
-* The algorithm's high computational demands compared to these devices' capacities.
-* Limited internet communiation capabilities of most such devices, making interfacing with the server running the PACE algorithm not feasible.
+* The algorithm's high computational demands relative to these devices' capacities.
+* Limited internet communication capabilities of most such devices, making interfacing with the server running the PACE algorithm not feasible.
 
 An example of a post-analysis visualization:
 
