@@ -15,6 +15,8 @@ PACE integrates data measured during exercise and computes a real-time estimate 
     * For endurance events, to increase the likelihood of finishing
 3. Design individualized and efficient training sessions, leading to performance gains and improved health, with main relevant benefit depending on the user group.
 
+For further information about the PACE project, unrelated to the technical development, see to the [Victoris project page](https://www.victoris.be/projects/pace/).
+
 ### Terminology
 
 **Critical Power (CP)**: The maximum power output that an athlete can maintain over an extended duration (~30–60 min). Physiologically, it corresponds to the highest steady-state oxidative metabolism rate, where lactate production and clearance remain balanced.
@@ -33,3 +35,6 @@ Integration with cycling computers and sports watches is not currently pursued d
 An example of a post-analysis visualization:
 
 ![PACE Visualization](/assets/img/projects/PACE/PACE_visualizatie.png)
+
+## Further Reading
+[Victoris Project Page](https://www.victoris.be/projects/pace/)
