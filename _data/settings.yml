@@ -152,7 +152,7 @@ projects:
   - cultural-heritage
 - file: projects/COURSE.html
   folder: COURSE
-  lead_researcher: jelledb
+  lead_researcher: rodcorte
   name: COURSE
   research_supervisor:
   - stevenvs
