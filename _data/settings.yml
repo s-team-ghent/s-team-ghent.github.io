@@ -362,15 +362,6 @@ projects:
   tags:
   - active
   - healthcare
-- file: projects/REPLAY.html
-  folder: REPLAY
-  lead_researcher: mslembro
-  name: REPLAY
-  research_supervisor:
-  - mslembro
-  tags:
-  - active
-  - sports
 projects_tags:
 - active
 - past
