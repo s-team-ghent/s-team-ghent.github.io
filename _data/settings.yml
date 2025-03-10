@@ -131,8 +131,7 @@ projects:
   - geospatial
 - file: projects/eureca.html
   folder: EURECA
-  lead_researcher: 
-    - kenzomv
+  lead_researcher: kenzomv
   other_researchers:
   - dilawaral
   name: EURECA
