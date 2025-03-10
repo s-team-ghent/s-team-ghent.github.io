@@ -143,6 +143,8 @@ projects:
 - file: projects/DATA-KBR-BE.html
   folder: DATA-KBR-BE
   lead_researcher: dilawaral
+  other_researchers:
+  - kenzomv
   name: DATA-KBR-BE
   research_supervisor:
   - stevenvs
