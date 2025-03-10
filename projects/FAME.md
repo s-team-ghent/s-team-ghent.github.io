@@ -7,7 +7,7 @@ title: 'FAME'
 
 The **FAME** (Facial Recognition as a Tool for Metadata Creation) project, supported by the **Flemish Government** and led by [Meemo](https://meemoo.be/), explored the application of facial recognition technology to improve metadata generation for digital heritage collections. Meemo has a large archive of digitized pictures of different theater shows, live performances, and cultural events spanning multiple decades. Most of these images are not sufficiently annotated and do not contain any information on who is in the images. Therefore, machine learning tools were used to detect the persons visible on the images and provide additional metadata. Using a known dataset of actor portfolios and facial recognition tools, we were able to automatically detect who is depicted on the images and improve the collection quality. 
 
-### Project Scope and Achievements
+#### Project Scope and Achievements
 - **Objective**: To enhance the accessibility and searchability of cultural heritage collections through (semi-)automated facial recognition.
 - **Pilot Partners**:
   - **Kunstenpunt (Flanders Arts Institute)** – Performing artists
@@ -35,10 +35,9 @@ The **FAME** (Facial Recognition as a Tool for Metadata Creation) project, suppo
    - Worked alongside **Meemoo** and cultural partners to refine the tool
    - Contributed to FAME **study days**, focusing on ethical and legal aspects
 
-### **Impact & Future Prospects**
+#### **Impact & Future Prospects**
 The project demonstrated that **semi-automated facial recognition significantly aids metadata creation**. While challenges remain, such as manual validation and reference set setup, FAME's insights are now influencing:
-- The **GIVE metadata project**, which aims to further explore facial recognition applications.
-- The **Tegenlicht project**, where ADVN and KOERS are integrating findings into their digitization initiatives.
+- The **[GIVE metadata project](https://meemoo.be/en/projects/give-coordinated-initiative-for-flemish-heritage-digitisation)**, which aims to further explore facial recognition applications.
 - Future proof-of-concepts for a large-scale **meemoo archive system**.
 
 By addressing both technological and ethical concerns, FAME has set the stage for **broader adoption of facial recognition in cultural heritage archiving**.
