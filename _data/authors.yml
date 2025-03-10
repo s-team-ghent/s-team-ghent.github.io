@@ -1,12 +1,12 @@
 jelledb: # author-id
   name: "Jelle De Bock"
-  avatar: "https://www.ugent.be/ea/idlab/img/members/jelle_de_bock.jpg"
+  avatar: "/assets/img/members/jdb.jpg"
   url: "https://github.com/jelledebock"
   title: "(former member) dr. ing."
   email: ""
 kenzomv:
   name: "Kenzo Milleville"
-  avatar: "https://www.ugent.be/ea/idlab/img/members/kenzo_milleville.jpg"
+  avatar: "https://people.idlab.ugent.be/802002975815.jpg"
   url: "https://github.com/kymillev"
   title: "dr. ir."
   email: "kenzo.milleville@ugent.be"
@@ -24,7 +24,7 @@ krishnaku:
   email: ""
 jellevh:
   name: "Jelle Vanhaeverbeke"
-  avatar: "https://www.ugent.be/ea/idlab/img/members/placeholder.jpg"
+  avatar: "/assets/img/members/jvh.jpg"
   url:
   title: "ing."
   email: "Jelle.Vanhaeverbeke@UGent.be"
@@ -41,13 +41,13 @@ pietervs:
   email: ""
 stevenvs:
   name: "Steven Verstockt"
-  avatar: "https://www.ugent.be/ea/idlab/img/members/stevenverstockt-jpg/"
+  avatar: "https://people.idlab.ugent.be/802000176757.jpg"
   github: ""
   title: "prof. dr."
   email: "steven.verstockt@ugent.be"
 dieterdw:
   name: "Dieter De Witte"
-  avatar: "https://www.ugent.be/ea/idlab/img/members/dieterdewitte-jpg/@@images/62de648b-c614-4772-9c74-86b96fe122e1.jpeg"
+  avatar: "https://people.idlab.ugent.be/802000451589.jpg"
   github: ""
   title: "prof. dr."
   email: "dieter.dewitte@ugent.be"
