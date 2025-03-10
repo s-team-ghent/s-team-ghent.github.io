@@ -35,7 +35,7 @@ single normalised image. This approach significantly improved the digitization e
 
 In the initial stage of DiSSCo, the primary focus was on extracting and identifying individual
 specimens from multi-specimen herbarium sheets (Thirukokaranam Chandrasekar 2021,
-Milleville et al. 2023). This process relied on recognizing the text present on the page for identification and association. Research into cross-collection linking was also performed, building upon the initial results from the FloreDeGand (https://www.floredegand.be/) project
+Milleville et al. 2023). This process relied on recognizing the text present on the page for identification and association. Research into cross-collection linking was also performed, building upon the initial results from the [FloreDeGand project](https://www.floredegand.be/)
 (Thirukokaranam Chandrasekar et al. 2021). This allowed for connections to be established between herbarium specimens and related collections, such as paintings, field observations,
 and historical documents, providing a more comprehensive view of botanical data across collections.
 
@@ -45,7 +45,7 @@ Next, research was performed to segment entire herbarium sheets using deep learn
 bars, notes, stamps, and barcodes). Several state-of-the-art models were fine-tuned on this dataset, including binary, instance, and panoptic models. For binary specimen segmentation, our results were in line with related work, achieving an IoU score of 0.951. Furthermore, we
 found that popular instance segmentation models like YOLOv8 and Mask R-CNN struggled segmenting plant specimens accurately, but worked well for the non-specimen objects. We
 found that Mask2Former, the most recent model we tested, performed best overall. Further improvements were observed by combining a binary segmentation model for the specimens
-(UNet++) with YOLOv8 for the common herbarium objects. The code, fine-tuned models, and dataset are freely available at: https://github.com/kymillev/herbarium-segmentation.
+(UNet++) with YOLOv8 for the common herbarium objects. The code, fine-tuned models, and dataset are freely available at: [https://github.com/kymillev/herbarium-segmentation](https://github.com/kymillev/herbarium-segmentation).
 
 ![Herbarium sheet segmentation](/assets/img/projects/DISSCO/segmentation.png "Herbarium sheet segmentation")
 
