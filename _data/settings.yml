@@ -287,6 +287,15 @@ projects:
   tags:
   - active
   - cultural-heritage
+  - file: projects/AI-CARES.html
+  folder: AI-CARES
+  lead_researcher: drdwitte
+  name: AI-CARES
+  research_supervisor:
+  - dieterdw
+  tags:
+  - active
+  - mental healthcare
 - file: projects/FRIABLE.html
   folder: FRIABLE
   lead_researcher: ravikcs
