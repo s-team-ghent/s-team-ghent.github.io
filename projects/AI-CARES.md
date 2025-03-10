@@ -24,3 +24,6 @@ IDLab (Internet Technology & Data Science Lab) at UGent plays a key role in the 
 - Design of a test environment to replay chat interactions between operators and help seekers
 
 IDLab will focus on the technical development and optimization of AI tools, as well as their integration and validation within the specific context of the welfare and healthcare sector.
+
+
+![Dissco Flanders Overview](/assets/img/projects/DISSCO/dissco_flanders.webp "Dissco-Flanders Overview")
