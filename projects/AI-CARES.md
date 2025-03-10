@@ -1,20 +1,26 @@
 ---
 layout: project
-title: 'BELGICAWEB'
+title: 'AI-CARES'
 ---
-## BelgicaWeb - Sustaining access to Belgium’s born-digital heritage
+## AI-CARES - LLMs for chat support in critical mental care
 
 ## About the project
-BelgicaWeb aims to open up born-digital data by making these collections available for (re)use and research. Making the born-digital data FAIR (Findable, Accessible, Interoperable and Reusable) is at the heart of the BelgicaWeb as the project aims to offer agile search by developing a multilingual user-friendly platform and an API that will allow offering the collections as data. Particular attention will be paid to the needs of the researchers and other potential users through the establishment of a reference group of experts at the start of the project who will will iteratively provide input. 
+AI-CARES focuses on enhancing online assistance within the welfare and mental health care sector in Flanders through AI technology. By developing and implementing AI-driven tools, the project aims to improve accessibility, quality, and efficiency in digital service provision, with a strong emphasis on ethics and safety.
 
-Concretely, BelgicaWeb will respond to the call by (1) investigating how to sustainably provide access to Belgium’s born-digital collections for both the public and researchers; (2) creating born-digital collections by capturing social media and web content; (3) aggregating existing (meta)data at KBR and enriching the (meta)data using linked open data, controlled vocabularies, Natural Language Processing or other digital methods; (4) developing the necessary data infrastructure by selecting the best (open source) technologies and sharing (open access) information and building on the best practises from international networks and infrastructures (e.g. DARIAH-EU, IIPC, WARCnet, RESAW); (5) analysing the relevant legal frameworks (data exchange, copyright in the context of text and data mining, data protection and privacy rights and freedom of expression) and (6) promoting and raising awareness about Belgium’s born-digital heritage by organising workshops at Belgian universities and facilitating interdisciplinary research.
+AI-CARES explores the application of Large Language Models (LLMs) that, after fine-tuning with domain-specific data, can better support both help chat operators and people who seek trustworthy information. The project focuses on RAG for tailored information dissemination and to support operators in chat and email-based assistance.
 
-The BelgicaWeb partners will bring the required range of interdisciplinary expertise to the project. IDLab, GhentCDH and MICT at UGhent will work on data enrichment, user engagement and evaluation and outreach to the research community respectively, CRIDS at UNamur will study the relevant legal issues, and KBR as coordinator will work on data enrichment and the development of the access platform and API.
+Specifically, AI-CARES will:
+
+1. Develop an AI language model optimized for the sensitive context of welfare and mental health services.
+2. Create three AI assistants to provide information and support via websites, chat platforms, and email assistance programs.
+3. Test and validate the AI tools in collaboration with welfare and healthcare organizations.
+4. Promote knowledge transfer and skill development through learning networks and integration into educational programs.
 
 ## IDLab role
-IDLab (Internet Technology & Data Science Lab) at UGhent will contribute the necessary 
-technical skills related to data enrichment. IDLab holds expertise in (Semantic) Web 
-technologies, Social Media/Web archiving, semantic annotation and linking of 
-heterogeneous data sources, Natural Language Processing and sustainable infrastructure 
-for querying Linked Open Data. IDLab will focus on data enrichment in the project. 
+IDLab (Internet Technology & Data Science Lab) at UGent plays a key role in the technological development and implementation of AI within AI-CARES. The team brings expertise in:
 
+- Natural Language Processing (NLP) and Large language models
+- GPDR in ethics for very sensitive personal data
+- Design of a test environment to replay chat interactions between operators and help seekers
+
+IDLab will focus on the technical development and optimization of AI tools, as well as their integration and validation within the specific context of the welfare and healthcare sector.
