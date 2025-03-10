@@ -12,13 +12,13 @@ kenzomv:
   email: "kenzo.milleville@ugent.be"
 dilawaral:
   name: "Dilawar Ali"
-  avatar: "https://www.ugent.be/ea/idlab/img/members/dilawar-ali.jpg"
+  avatar: "/assets/img/members/dilawar.jpg"
   url: "https://github.com/"
   title: "(former member) dr. ing."
   email: ""
 krishnaku:
   name: "Krishna Kumar"
-  avatar: "https://www.ugent.be/ea/idlab/img/members/krishna_kumar.jpg"
+  avatar: "/assets/img/members/krishna.jpg"
   url:
   title: "(former member) dr. ing."
   email: ""
