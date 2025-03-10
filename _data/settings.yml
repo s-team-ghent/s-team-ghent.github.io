@@ -260,12 +260,13 @@ projects:
   - sports
 - file: projects/HENSOR.html
   folder: HENSOR
-  lead_researcher: ravikcs
+  lead_researcher: dieterdw
   name: HENSOR
   other_researchers:
   - kenzomv
+  - ravikcs
   research_supervisor:
-  - dieterdw
+  - stevenvs
   tags:
   - active
   - cultural-heritage
