@@ -96,3 +96,13 @@ soheila:
   avatar: "https://www.ugent.be/ea/idlab/img/members/placeholder.jpg"
   title: ""
   email: "soheila.bigdeli@ugent.be"
+george:
+  name: "George Barbosa"
+  avatar: "https://idlab.ugent.be/img/placeholder.jpeg"
+  title: "ir."
+  email: "GeorgeCaique.GouveiaBarbosa@UGent.be"
+fei:
+  name: "Fei Fei"
+  avatar: "https://idlab.ugent.be/img/placeholder.jpeg"
+  title: "ir."
+  email: "fei.fei@ugent.be"
