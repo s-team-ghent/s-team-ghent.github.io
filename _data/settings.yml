@@ -317,11 +317,10 @@ projects:
   - cultural-heritage
 - file: projects/artemis.html
   folder: ARTEMIS
-  lead_researcher: kenzomv
+  lead_researcher: fei
   name: Artemis
-  other_researchers:
-  - fei
   research_supervisor:
+  - kenzomv
   - stevenvs
   tags:
   - active
