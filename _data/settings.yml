@@ -319,6 +319,8 @@ projects:
   folder: ARTEMIS
   lead_researcher: kenzomv
   name: Artemis
+  other_researchers:
+  - fei
   research_supervisor:
   - stevenvs
   tags:
